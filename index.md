@@ -2,7 +2,47 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Open Text Collections
+
+# Introduction
+
+
+
+# Regional Boards
+
+## OTC Oceania
+### Editors
+Christian Döhler, Kilu von Prince
+
+### Collections
+
+#### Published
+#### In production
+#### Pending review
+#### in preparation
+* Komnzo
+* Bine
+
+## OTC Africa
+### Editors
+ Alena Witzlack-Makarevich, Jeff Good
+
+## OTC South America
+### Editors
+Matt Coler
+
+<!-- ## OTC North America -->
+
+## OTC Caucasus
+### Editors
+ Diana Forker
+
+## OTC Eurasia:
+### Editors
+ Michael Rießler
+
+
+<!--Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
@@ -120,4 +160,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
 The final element.
-```
+```-->
