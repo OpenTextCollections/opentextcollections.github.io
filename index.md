@@ -15,13 +15,13 @@ We will produce at least 10 text collections during the funding period, but hope
 The project is funded by the DFG from 2023-2025 and will thereafter be funded by a consortium of research institutions similar to Language Science Press
 
 # Project team
-Mandana Seyfeddinipur, Sebastian Nordhoff, Christian Döhler
+Sebastian Nordhoff, Christian Döhler, Mandana Seyfeddinipur
 
 # Regional Boards
 
 ## OTC Oceania
 ### Editors
-Christian Döhler, Kilu von Prince
+Christian Döhler, Kilu von Prince (Düsseldorf)
 
 ### Collections
 
@@ -36,11 +36,11 @@ Christian Döhler, Kilu von Prince
 
 ## OTC Africa
 ### Editors
- Alena Witzlack-Makarevich, Jeff Good
+ Alena Witzlack-Makarevich (Jerusalem), Jeff Good (Buffalo)
 
 ## OTC South America
 ### Editors
-Matt Coler
+Matt Coler (Groningen)
 
 
 ### Collections
@@ -56,7 +56,7 @@ Matt Coler
 
 ## OTC Caucasus
 ### Editors
- Diana Forker
+ Diana Forker (Jena)
 
 ### Collections
 
@@ -71,7 +71,7 @@ Matt Coler
 
 ## OTC Eurasia:
 ### Editors
- Michael Rießler
+ Michael Rießler (Joensuu)
 
 # FAQ (work in progress)
 
@@ -80,12 +80,15 @@ Matt Coler
 - Why are text collections useful?
 
 - Are text collections corpora?
+Text collections are a very special type of corpus, but there are many corpora out there which are not text collections.
 
 - What is the relation to language archives?
 
 - What is the relation to Pangloss?
 
 - Where were text collections published before?
+
+There have not been good outlets for text collections in the past. *On this and other worlds* is a text collection from the Amazon published by Language Science Press in 2017. The International Journal of American Linguistics has TILA (Texts in the Indigenous Languages of the Americas) https://www.americanlinguistics.org/?page_id=1830, but these collections are not open access and only available as pdf. There is also the Native American Text Series https://press.uchicago.edu/ucp/books/series/NATAMX.html.
 
 - What standards do the collections adhere to?
 
@@ -97,7 +100,11 @@ The project is hosted at the Berlin-Brandenburgische Akademie der Wissenschaften
 
 - Where can I submit my own text collections?
 
+As the project progresses, there will be a dedicated submission system. For the time being, you can direct requests to otc@langsci-press.org.
+
 - Will there be long time archiving?
+
+All accepted collections will be available at https://zenodo.org/communities/otc
 
 - Will there be DOIs?
 
