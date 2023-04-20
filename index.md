@@ -78,11 +78,13 @@ Matt Coler (Groningen)
 - What is a text collection?
 
 - Why are text collections useful?
+Grammatical descriptions typically make use of isolated example sentences. It occurs that a given example would allow alternative analyses, or that it raises additional questions. A text collection can help answer these questions. Additionally, the context provided by the sentences before and after also allow for further insights. Finally, text collections are literary works and as such are enjoyable works of art by themselves, both for community members as well as outsiders.
 
 - Are text collections corpora?
 Text collections are a very special type of corpus, but there are many corpora out there which are not text collections.
 
 - What is the relation to language archives?
+Language archives have large deposits of heterogeneous items, often multimedia and typically naturalistic. It is possible to draw upon language archives to start a text collection. This will will require editorial work, such as selection, polishing, and contextualization.
 
 - What is the relation to Pangloss?
 
@@ -112,11 +114,17 @@ All accepted collections will be available at https://zenodo.org/communities/otc
 
 All text collections will be available as versioned publications, which can be updated as necessary.
 
+- Can I publish my text elsewhere? Can I submit texts which have already been published?
+
+OTC does not require exclusivity. You are free to submit collections based on texts which are already available elsewhere (provided this does not infringe upon third party rights), and you are free to reuse OTC texts elsewhere.
+
 - What is the legal framework?
 
 - How will peer review be organized?
 
 - What ways are there to read or otherwise interact with a given text collection?
+
+We treat text collections as research data and store them in a structured format in the backend. For different audiences, we will make the data available in different formats. As a default, we will provide HTML, PDF, and print-on-demand books for human readers and CSV and JSON-LD for machine consumption.
 
 - Will there be audio? video?
 
@@ -126,9 +134,16 @@ The primary medium is written text. Audio and video are optional.
 
 No, the texts are curated and edited. For the time being, monological texts are the main focus, but we do not exclude having more than one participant for particular genres.
 
-- Can I submit a collection in ELAN/FLEx/Word/LaTeX/pdf?
+- Can I submit a collection in ELAN/FLEx/Word/LaTeX/pdf/XYZ?
+
+We will provide ingestion routines for ELAN, FLEx and tex (at least gb4e, maybe also linguex). For these formats, we will develop templates together with pilot authors. For MS Word/LibreOffice, it is not impossible, but not guaranteed that templates and ingestion routines will be provided as well.
+
 
 - What sizes do text collections have?
+
+A text collection should give you a good overview of a given topic. Depending on the domain covered, this can be smaller or larger. It is possible to imagine domains with very few texts, which are nevertheless exhaustive and self-contained (eg "North wind", "East wind", "South wind", "West wind"), but it is also possible to imagine collections with a much larger amount of texts.
+
+At the same time, one can also have collections of very short texts (eg lullabies) or very long texts (epics). So, there is no hard and fast quantitative specification of how many words/sentences/texts a text collection should contain.
 
 - how can I contact the project?
 
