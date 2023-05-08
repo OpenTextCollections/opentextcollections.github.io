@@ -40,7 +40,7 @@ Christian Döhler, Kilu von Prince (Düsseldorf)
 
 ## OTC South America
 ### Editors
-Matt Coler (Groningen)
+Matt Coler (Groningen), Nick Emle (Groningen)
 
 
 ### Collections
@@ -76,6 +76,17 @@ Matt Coler (Groningen)
 # FAQ (work in progress)
 
 - What is a text collection?
+A text collection is a curated and edited set of texts with interlinear morpheme translation. We can use On this and other worlds: [On this and other worlds: Voices from Amazonia ](https://langsci-press.org/catalog/book/167) as an example.
+
+```
+This [book] offers a collection of twelve interlinear texts reflecting the vast linguistic diversity of Amazonia as well as the rich verbal arts and oral literature traditions of Amazonian peoples. Contributions to the volume come from a variety of geographic regions and represent the Carib, Jê, Tupi, East Tukano, Nadahup, and Pano language families, as well as three linguistic isolates. The selected texts exemplify a variety of narrative styles recounting the origins of constellations, crops, and sacred cemeteries, and of travel to worlds beyond death. We hear tales of tricksters and of encounters between humans and other beings, learn of battles between enemies, and gain insight into history and the indigenous perspective of creation, cordiality and confrontation.
+```
+
+The texts are **curated**. This means that they have been chosen among a larger set of texts because they are particular well suited to illustrate a certain topic or a certain genre. Random sets of opportunistic texts are not a text collection as intended here.
+
+The texts are **edited**, not naturalistic. This means that hesitation markers, false starts and self-corrections are edited out. This entails that the text given in a text collection can differ at time from the recording on which it is based.
+
+We require our texts to have **interlinear morpheme translations**, following the [Leipzig Glossing Rules](https://www.eva.mpg.de/lingua/resources/glossing-rules.php)
 
 - Why are text collections useful?
 Grammatical descriptions typically make use of isolated example sentences. It occurs that a given example would allow alternative analyses, or that it raises additional questions. A text collection can help answer these questions. Additionally, the context provided by the sentences before and after also allow for further insights. Finally, text collections are literary works and as such are enjoyable works of art by themselves, both for community members as well as outsiders.
@@ -104,11 +115,22 @@ The project is hosted at the Berlin-Brandenburgische Akademie der Wissenschaften
 
 As the project progresses, there will be a dedicated submission system. For the time being, you can direct requests to otc@langsci-press.org.
 
+
+- Can I submit texts without audio?
+
+Yes, this is the standard. Audio supplements are possible, but are not the main target
+
+- Can I submit text collections of historical/extinct languages?
+
+Yes, as long as they are edited, curated, and interlinearized
+
 - Will there be long time archiving?
 
 All accepted collections will be available at https://zenodo.org/communities/otc
 
 - Will there be DOIs?
+
+Each released version of a text collection will get its own DOI. For the time being, we do not plan DOIs for the component texts, but we might review this later.
 
 - Can a given text collection be amended/updated/extended?
 
@@ -137,6 +159,14 @@ No, the texts are curated and edited. For the time being, monological texts are 
 - Can I submit a collection in ELAN/FLEx/Word/LaTeX/pdf/XYZ?
 
 We will provide ingestion routines for ELAN, FLEx and tex (at least gb4e, maybe also linguex). For these formats, we will develop templates together with pilot authors. For MS Word/LibreOffice, it is not impossible, but not guaranteed that templates and ingestion routines will be provided as well.
+
+- What kind of backend are you using?
+
+We will use csv for backend storage and versioning. We will provide conversion routines for FLEx/ELAN/tex
+
+- In what form will a text collection be available?
+
+All texts will be available as HTML to be read in a browser, as pdf to be read on a computer, and as printed book to be read offline. Additionally, the backend data will be available as csv, json, and possibly rdf if there is demand.
 
 
 - What sizes do text collections have?
