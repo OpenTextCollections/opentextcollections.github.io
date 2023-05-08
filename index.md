@@ -75,7 +75,7 @@ Matt Coler (Groningen), Nick Emle (Groningen)
 
 # FAQ (work in progress)
 
-- What is a text collection?
+- **What is a text collection?**
 A text collection is a curated and edited set of texts with interlinear morpheme translation. We can use [On this and other worlds: Voices from Amazonia ](https://langsci-press.org/catalog/book/167) as an example.
 
 ```
@@ -101,94 +101,94 @@ The texts are **edited**, not naturalistic. This means that hesitation markers, 
 
 We require our texts to have **interlinear morpheme translations**, following the [Leipzig Glossing Rules](https://www.eva.mpg.de/lingua/resources/glossing-rules.php)
 
-- Why are text collections useful?
+- **Why are text collections useful?**
 Grammatical descriptions typically make use of isolated example sentences. It occurs that a given example would allow alternative analyses, or that it raises additional questions. A text collection can help answer these questions. Additionally, the context provided by the sentences before and after also allow for further insights. Finally, text collections are literary works and as such are enjoyable works of art by themselves, both for community members as well as outsiders.
 
-- Are text collections corpora?
+- **Are text collections corpora?**
 Text collections are a very special type of corpus, but there are many corpora out there which are not text collections.
 
-- What is the relation to language archives?
+- **What is the relation to language archives?**
 Language archives have large deposits of heterogeneous items, often multimedia and typically naturalistic. It is possible to draw upon language archives to start a text collection. This will will require editorial work, such as selection, polishing, and contextualization.
 
-- What is the relation to Pangloss?
+- **What is the relation to Pangloss?**
 
-- Where were text collections published before?
+- **Where were text collections published before?**
 
 There have not been good outlets for text collections in the past. *On this and other worlds* is a text collection from the Amazon published by Language Science Press in 2017. The International Journal of American Linguistics has TILA (Texts in the Indigenous Languages of the Americas) https://www.americanlinguistics.org/?page_id=1830, but these collections are not open access and only available as pdf. There is also the Native American Text Series https://press.uchicago.edu/ucp/books/series/NATAMX.html.
 
-- What standards do the collections adhere to?
+- **What standards do the collections adhere to?**
 
 Our text collection are in Unicode and follow the Leipzig Glossing Rules. The following elements are mandadtory vernacular line, interlinear morpheme translation, translation line. Further lines can optionally be added. The backend will use the CSVW format https://www.w3.org/TR/tabular-data-primer/.
 
-- Where is the project hosted?
+- **Where is the project hosted?**
 
 The project is hosted at the Berlin-Brandenburgische Akademie der Wissenschaften. The publishing partner is Language Science Press.
 
-- Where can I submit my own text collections?
+- **Where can I submit my own text collections?**
 
 As the project progresses, there will be a dedicated submission system. For the time being, you can direct requests to otc@langsci-press.org.
 
 
-- Can I submit texts without audio?
+- **Can I submit texts without audio?**
 
 Yes, this is the standard. Audio supplements are possible, but are not the main target
 
-- Can I submit text collections of historical/extinct languages?
+- **Can I submit text collections of historical/extinct languages?**
 
 Yes, as long as they are edited, curated, and interlinearized
 
-- Will there be long time archiving?
+- **Will there be long time archiving?**
 
 All accepted collections will be available at https://zenodo.org/communities/otc
 
-- Will there be DOIs?
+- **Will there be DOIs?**
 
 Each released version of a text collection will get its own DOI. For the time being, we do not plan DOIs for the component texts, but we might review this later.
 
-- Can a given text collection be amended/updated/extended?
+- **Can a given text collection be amended/updated/extended?**
 
 All text collections will be available as versioned publications, which can be updated as necessary.
 
-- Can I publish my text elsewhere? Can I submit texts which have already been published?
+- **Can I publish my text elsewhere? Can I submit texts which have already been published?**
 
 OTC does not require exclusivity. You are free to submit collections based on texts which are already available elsewhere (provided this does not infringe upon third party rights), and you are free to reuse OTC texts elsewhere.
 
-- What is the legal framework?
+- **What is the legal framework?**
 
-- How will peer review be organized?
+- **How will peer review be organized?**
 
-- What ways are there to read or otherwise interact with a given text collection?
+- **What ways are there to read or otherwise interact with a given text collection?**
 
 We treat text collections as research data and store them in a structured format in the backend. For different audiences, we will make the data available in different formats. As a default, we will provide HTML, PDF, and print-on-demand books for human readers and CSV and JSON-LD for machine consumption.
 
-- Will there be audio? video?
+- **Will there be audio? video?**
 
 The primary medium is written text. Audio and video are optional.
 
-- Are the texts naturalistic?
+- **Are the texts naturalistic?**
 
 No, the texts are curated and edited. For the time being, monological texts are the main focus, but we do not exclude having more than one participant for particular genres.
 
-- Can I submit a collection in ELAN/FLEx/Word/LaTeX/pdf/XYZ?
+- **Can I submit a collection in ELAN/FLEx/Word/LaTeX/pdf/XYZ?**
 
 We will provide ingestion routines for ELAN, FLEx and tex (at least gb4e, maybe also linguex). For these formats, we will develop templates together with pilot authors. For MS Word/LibreOffice, it is not impossible, but not guaranteed that templates and ingestion routines will be provided as well.
 
-- What kind of backend are you using?
+- **What kind of backend are you using?**
 
 We will use csv for backend storage and versioning. We will provide conversion routines for FLEx/ELAN/tex
 
-- In what form will a text collection be available?
+- **In what form will a text collection be available?**
 
 All texts will be available as HTML to be read in a browser, as pdf to be read on a computer, and as printed book to be read offline. Additionally, the backend data will be available as csv, json, and possibly rdf if there is demand.
 
 
-- What sizes do text collections have?
+- **What sizes do text collections have?**
 
 A text collection should give you a good overview of a given topic. Depending on the domain covered, this can be smaller or larger. It is possible to imagine domains with very few texts, which are nevertheless exhaustive and self-contained (eg "North wind", "East wind", "South wind", "West wind"), but it is also possible to imagine collections with a much larger amount of texts.
 
 At the same time, one can also have collections of very short texts (eg lullabies) or very long texts (epics). So, there is no hard and fast quantitative specification of how many words/sentences/texts a text collection should contain.
 
-- how can I contact the project?
+- **how can I contact the project?**
 
 The official start of the project will be in autumn 2023. Until then, you can use otc@langsci-press.org
 
@@ -272,19 +272,19 @@ end
 
 ### And a nested list:
 
-- level 1 item
+- **level 1 item**
   - level 2 item
   - level 2 item
     - level 3 item
     - level 3 item
-- level 1 item
+- **level 1 item**
   - level 2 item
   - level 2 item
   - level 2 item
-- level 1 item
+- **level 1 item**
   - level 2 item
   - level 2 item
-- level 1 item
+- **level 1 item**
 
 ### Small image
 
