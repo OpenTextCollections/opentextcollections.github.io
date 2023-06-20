@@ -51,6 +51,7 @@ Matt Coler (Groningen), Nick Emle (Groningen)
 #### in preparation
 * Muylaque Aymara
 * Iquito
+<!-- * Kawesqar -->
 
 <!-- ## OTC North America -->
 
