@@ -16,7 +16,7 @@ The following map shows the languages where people are currently preparing text 
 
 
 # Funding
-The project is funded by the DFG from 2023-2025 and will thereafter be funded by a consortium of research institutions similar to Language Science Press
+The project is funded by the DFG from 2023-2025 and will thereafter be funded by a consortium of research institutions similar to Language Science Press.
 
 # Project team
 Sebastian Nordhoff, Christian Döhler, Mandana Seyfeddinipur
@@ -29,7 +29,7 @@ Sebastian Nordhoff, Christian Döhler, Mandana Seyfeddinipur
 |  **Africa** | Alena Witzlack-Makarevich (Jerusalem), Jeff Good (Buffalo) |
 |  **Caucasus** | Diana Forker (Jena) |
 |  **Eurasia** | Michael Rießler (Joensuu) |
-|  **Oceania** | Christian Döhler, Kilu von Prince (Düsseldorf) |
+|  **Oceania** | Christian Döhler (Berlin), Kilu von Prince (Düsseldorf) |
 |  **South America**  | Matt Coler (Groningen), Nick Emle (Groningen) |
 
 
@@ -38,7 +38,7 @@ Sebastian Nordhoff, Christian Döhler, Mandana Seyfeddinipur
 
 - **What is a text collection?**
 
-A text collection is a curated and edited set of texts with interlinear morpheme translation. We can use [On this and other worlds: Voices from Amazonia ](https://langsci-press.org/catalog/book/167) as an example.
+A text collection is a curated and edited set of texts with interlinear morpheme translation. We can use [*On this and other worlds: Voices from Amazonia* ](https://langsci-press.org/catalog/book/167) as an example.
 
 >
 This [book] offers a collection of twelve interlinear texts
@@ -73,13 +73,13 @@ Text collections are a very special type of corpus, but there are many corpora o
 
 - **What is the relation to language archives?**
 
-Language archives have large deposits of heterogeneous items, often multimedia and typically naturalistic. It is possible to draw upon language archives to start a text collection. This will will require editorial work, such as selection, polishing, and contextualization.
+Language archives have large deposits of heterogeneous items, often multimedia and typically naturalistic. It is possible to draw upon language archives to start a text collection. This will require editorial work, such as selection, polishing, and contextualization.
 
 
 
 - **Where were text collections published before?**
 
-There have not been good outlets for text collections in the past. *On this and other worlds* is a text collection from the Amazon published by Language Science Press in 2017. See the next question for other publications outlets where text collections have been published.
+There have not been good outlets for text collections in the past. [*On this and other worlds: Voices from Amazonia*](https://langsci-press.org/catalog/book/167) is a text collection from the Amazon published by Language Science Press in 2017. See the next question for other publications outlets where text collections have been published.
 
 - **How is OTC different from ...**
   - **... Pangloss?**
@@ -92,15 +92,15 @@ There have not been good outlets for text collections in the past. *On this and 
 
   - **... Texts in the Languages of the Pacific ?**
 
-  [TILP](https://www.langlxmelanesia.com/tilp) has texts in a variety of languages from the Pacific. The text are free to download, but have no licence information. The texts are in pdf format only, which makes it difficult to do automated analyses
+  [TILP](https://www.langlxmelanesia.com/tilp) has texts in a variety of languages from the Pacific. The text are free to download, but have no licence information. The texts are in pdf format only, which makes it difficult to do automated analyses.
 
   - **... UCP Native American Texts?**
 
-  [NATAMX](https://press.uchicago.edu/ucp/books/series/NATAMX.html) contains 12 volumes of legacy text collections published between 1976-1980. The texts are in pdf format only, which makes it difficult to do automated analyses  Access has to be purchased.
+  [NATAMX](https://press.uchicago.edu/ucp/books/series/NATAMX.html) contains 12 volumes of legacy text collections published between 1976-1980. The texts are in pdf format only, which makes it difficult to do automated analyses. Access has to be purchased.
 
   - **... Publications of the Survey of California and Other Indian Languages?**
 
-  [BLING Survey](https://escholarship.org/uc/bling_survey) has some freely accessible texts in pdf format. The texts are in pdf format only, which makes it difficult to do automated analyses
+  [BLING Survey](https://escholarship.org/uc/bling_survey) has some freely accessible texts in pdf format. The texts are in pdf format only, which makes it difficult to do automated analyses.
 
   - **... Tlalocan?**
 
@@ -108,7 +108,7 @@ There have not been good outlets for text collections in the past. *On this and 
 
 - **What standards do the collections adhere to?**
 
-Our text collection are in Unicode and follow the Leipzig Glossing Rules. The following elements are mandadory: vernacular line, interlinear morpheme translation, translation line. Further lines can optionally be added. The backend will use the CSVW format https://www.w3.org/TR/tabular-data-primer/.
+Our text collection are in Unicode and follow the Leipzig Glossing Rules. The following elements are mandadory: vernacular line, interlinear morpheme translation, translation line. Further lines can optionally be added. The backend will use the [CSVW format](https://www.w3.org/TR/tabular-data-primer/).
 
 - **What libraries will the project use**
 
@@ -141,7 +141,7 @@ Yes, as long as they are thematically coherent. Cf. [On this and other worlds: V
 
 - **Will there be long time archiving?**
 
-All accepted collections will be available at (https://zenodo.org/communities/otc)
+All accepted collections will be available at [Zenodo](https://zenodo.org/communities/otc).
 
 - **Will there be DOIs?**
 
@@ -161,7 +161,7 @@ The laws of Germany apply.
 
 - **How will peer review be organized?**
 
-All collections will undergo a formal review (*Are all sentences glossed? Are all sentences translated? Do the number of morphemes match between source line and gloss line*, ...) and a content review (*Is the collection coherent?, Were the collectors diligent and respectful of the standards of the discipline?, ...*). The formal review will be automated. The content review will be organized by the regional boards.
+All collections will undergo a formal review (*Are all sentences glossed? Are all sentences translated? Do the number of morphemes match between source line and gloss line, ...*) and a content review (*Is the collection coherent?, Were the collectors diligent and respectful of the standards of the discipline?, ...*). The formal review will be automated. The content review will be organized by the regional boards.
 
 - **What ways are there to read or otherwise interact with a given text collection?**
 
@@ -189,11 +189,9 @@ We will use [CLDF](https://cldf.clld.org) for backend storage and versioning. We
 
 All texts will be available as HTML to be read in a browser, as pdf to be read on a computer, and as printed book to be read offline. Additionally, the backend data will be available as csv, json, and possibly rdf if there is demand.
 
-
-
 - **What sizes do text collections have?**
 
-A text collection should give you a good overview of a given topic. Depending on the domain covered, this can be smaller or larger. It is possible to imagine domains with very few texts, which are nevertheless exhaustive and self-contained (eg "North wind", "East wind", "South wind", "West wind"), but it is also possible to imagine collections with a much larger amounts of texts.
+A text collection should give you a good overview of a given topic. Depending on the domain covered, this can be smaller or larger. It is possible to imagine domains with very few texts, which are nevertheless exhaustive and self-contained (eg "North wind", "East wind", "South wind", "West wind"), but it is also possible to imagine collections with much larger amounts of texts.
 
 At the same time, one can also have collections of very short texts (eg lullabies) or very long texts (epics). So, there is no hard and fast quantitative specification of how many words/sentences/texts a text collection should contain.
 
