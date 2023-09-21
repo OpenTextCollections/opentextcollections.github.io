@@ -37,6 +37,7 @@ Sebastian Nordhoff, Christian Döhler, Mandana Seyfeddinipur
 # FAQ (work in progress)
 
 - **What is a text collection?**
+
 A text collection is a curated and edited set of texts with interlinear morpheme translation. We can use [On this and other worlds: Voices from Amazonia ](https://langsci-press.org/catalog/book/167) as an example.
 
 >
@@ -63,12 +64,15 @@ cordiality and confrontation.
   We require our texts to have **interlinear morpheme translations**, following the [Leipzig Glossing Rules](https://www.eva.mpg.de/lingua/resources/glossing-rules.php)
 
 - **Why are text collections useful?**
+
 Grammatical descriptions typically make use of isolated example sentences. It occurs that a given example would allow alternative analyses, or that it raises additional questions. A text collection can help answer these questions. Additionally, the context provided by the sentences before and after also allow for further insights. Finally, text collections are literary works and as such are enjoyable works of art by themselves, both for community members as well as outsiders.
 
 - **Are text collections corpora?**
+
 Text collections are a very special type of corpus, but there are many corpora out there which are not text collections.
 
 - **What is the relation to language archives?**
+
 Language archives have large deposits of heterogeneous items, often multimedia and typically naturalistic. It is possible to draw upon language archives to start a text collection. This will will require editorial work, such as selection, polishing, and contextualization.
 
 
