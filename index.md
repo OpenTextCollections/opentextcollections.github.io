@@ -9,7 +9,7 @@ Next to grammars and dictionaries, text collections are one of the three element
 
 We will produce at least 10 text collections during the funding period, but hope to be able to deliver many more.
 
-The following map shows the languages where people are currently preparing text collections.
+The following map shows the languages where people are currently preparing text collections for submission.
 
 ![a world map showing 28 red dots representing languages in South America, Africa, Europe, Asia, and the Pacific](otclgs2023-09-21.png)
 
