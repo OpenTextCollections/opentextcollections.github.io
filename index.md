@@ -79,17 +79,21 @@ There have not been good outlets for text collections in the past. *On this and 
 
 - **How is OTC different from ...**
   - **... Pangloss?**
-    [https://pangloss.cnrs.fr](Pangloss) features some texts, but also a lot of other materials. When accessing materials about a certain languages, you cannot be sure what you will find. With OTC, you will know that you will find text collections.
+  [Pangloss](https://pangloss.cnrs.fr) features some texts, but also a lot of other materials. When accessing materials about a certain languages, you cannot be sure what you will find. With OTC, you will know that you will find text collections.
   - **... TIPA?**
-  [https://www.americanlinguistics.org/?page_id=1830](TIPA) has texts in the languages of the Americas, but they are not open access nor available in a structured format.
+
+  [TIPA](https://www.americanlinguistics.org/?page_id=1830) has texts in the languages of the Americas, but they are not open access nor available in a structured format.
   - **... Texts in the Languages of the Pacific ?**
-  [https://www.langlxmelanesia.com/tilp](TILP) has texts in a variety of languages from the Pacific. The text are free to download, but have no licence information. The texts are in pdf format only, which makes it difficult to do automated analyses
+
+  [TILP](https://www.langlxmelanesia.com/tilp) has texts in a variety of languages from the Pacific. The text are free to download, but have no licence information. The texts are in pdf format only, which makes it difficult to do automated analyses
   - **... UCP Native American Texts?**
-  [https://press.uchicago.edu/ucp/books/series/NATAMX.html](NATAMX) contains 12 volumes of legacy text collections published between 1976-1980. The texts are in pdf format only, which makes it difficult to do automated analyses  Access has to be purchased.
+
+  [NATAMX](https://press.uchicago.edu/ucp/books/series/NATAMX.html) contains 12 volumes of legacy text collections published between 1976-1980. The texts are in pdf format only, which makes it difficult to do automated analyses  Access has to be purchased.
   - **... Publications of the Survey of California and Other Indian Languages?**
-  [https://escholarship.org/uc/bling_survey](BLING Survey) has some freely accessible texts in pdf format. The texts are in pdf format only, which makes it difficult to do automated analyses
+
+  [BLING Survey](https://escholarship.org/uc/bling_survey) has some freely accessible texts in pdf format. The texts are in pdf format only, which makes it difficult to do automated analyses
   - **... Tlalocan?**
-  [https://revistas-filologicas.unam.mx/tlalocan/index.php/tl](Tlalocan) contains texts in a variety of formats. The texts are freely accessible. They seem to contain only a full translation into Spanish/English, not a sentence-by-sentence translation or interlinear morpheme glossing.
+  [Tlalocan](https://revistas-filologicas.unam.mx/tlalocan/index.php/tl) contains texts in a variety of formats. The texts are freely accessible. They seem to contain only a full translation into Spanish/English, not a sentence-by-sentence translation or interlinear morpheme glossing.
 
 - **What standards do the collections adhere to?**
 
