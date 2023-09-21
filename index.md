@@ -85,6 +85,7 @@ Matt Coler (Groningen), Nick Emle (Groningen)
 
 - **What is a text collection?**
 A text collection is a curated and edited set of texts with interlinear morpheme translation. We can use [On this and other worlds: Voices from Amazonia ](https://langsci-press.org/catalog/book/167) as an example.
+
         ```
         This [book] offers a collection of twelve interlinear texts
         reflecting the vast linguistic diversity of Amazonia as well
@@ -121,17 +122,21 @@ Language archives have large deposits of heterogeneous items, often multimedia a
 
 - **Where were text collections published before?**
 
-There have not been good outlets for text collections in the past. *On this and other worlds* is a text collection from the Amazon published by Language Science Press in 2017. The International Journal of American Linguistics has TILA (Texts in the Indigenous Languages of the Americas) https://www.americanlinguistics.org/?page_id=1830, but these collections are not open access and only available as pdf. There is also the Native American Text Series https://press.uchicago.edu/ucp/books/series/NATAMX.html.
+There have not been good outlets for text collections in the past. *On this and other worlds* is a text collection from the Amazon published by Language Science Press in 2017. See the next question for other publications outlets where text collections have been published.
 
-TILP
-
-- **How is OTC different from**
--- **... Pangloss?**
--- **... TIPA?**
--- **... TILP?**
--- **... Chicagor?**
--- **... California?**
--- **... Mexico?**
+- **How is OTC different from ...**
+  - **... Pangloss?**
+    https://pangloss.cnrs.fr features some texts, but also a lot of other materials. When accessing materials about a certain languages, you cannot be sure what you will find. With OTC, you will know that you will find text collections.
+  - **... TIPA?**
+  https://www.americanlinguistics.org/?page_id=1830 has texts in the languages of the Americas, but they are not open access nor available in a structured format.
+  - **... Texts in the Languages of the Pacific ?**
+  https://www.langlxmelanesia.com/tilp has texts in a variety of languages from the Pacific. The text are free to download, but have no licence information. The texts are in pdf format only, which makes it difficult to do automated analyses
+  - **... UCP Native American Texts?**
+  https://press.uchicago.edu/ucp/books/series/NATAMX.html contains 12 volumes of legacy text collections published between 1976-1980. The texts are in pdf format only, which makes it difficult to do automated analyses  Access has to be purchased.
+  - **... Publications of the Survey of California and Other Indian Languages?**
+  https://escholarship.org/uc/bling_survey has some freely accessible texts in pdf format. The texts are in pdf format only, which makes it difficult to do automated analyses
+  - **... Tlalocan?**
+  https://revistas-filologicas.unam.mx/tlalocan/index.php/tl contains texts in a variety of formats. The texts are freely accessible. They seem to contain only a full translation into Spanish/English, not a sentence-by-sentence translation or interlinear morpheme glossing.
 
 - **What standards do the collections adhere to?**
 
@@ -140,13 +145,13 @@ Our text collection are in Unicode and follow the Leipzig Glossing Rules. The fo
 - **What libraries will the project use**
 
 We can rely on the existing libraries:
-- the (CLDF framework)[https://cldf.clld.org]
-- (eldpy)[https://github.com/ZAS-QUEST/eldpy] for conversion eaf -> cldf
-- we are investigating the use of Florian Matter's (cldflex)[https://github.com/fmatter/cldflex] library for the conversion from FleX to CLDF
+- the [CLDF framework](https://cldf.clld.org)
+- [eldpy](https://github.com/ZAS-QUEST/eldpy) for conversion eaf -> cldf
+- we are investigating the use of Florian Matter's [cldflex](https://github.com/fmatter/cldflex) library for the conversion from FleX to CLDF
 
 - **Where is the project hosted?**
 
-The project is hosted at the (Berlin-Brandenburgische Akademie der Wissenschaften)[https://www.bbaw.de]. The publishing partner is (https://www.langsci-press.org)[Language Science Press].
+The project is hosted at the [Berlin-Brandenburgische Akademie der Wissenschaften[(https://www.bbaw.de). The publishing partner is [https://www.langsci-press.org](Language Science Press).
 
 - **Where can I submit my own text collections?**
 
