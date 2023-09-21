@@ -197,11 +197,7 @@ At the same time, one can also have collections of very short texts (eg lullabie
 
 - **How can I contact the project?**
 
-Sebastian Nordhoff: nordhoff@bbaw.de
-
-Christian Döhler: doehler@bbaw.de
-
-You can also use otc@langsci-press.org
+You can contact us via otc@langsci-press.org
 
 
 
