@@ -23,63 +23,16 @@ Sebastian Nordhoff, Christian Döhler, Mandana Seyfeddinipur
 
 # Regional Boards
 
-## OTC Oceania
-### Editors
-Christian Döhler, Kilu von Prince (Düsseldorf)
 
-<!--*
-### Collections
-
-#### Published
-#### In production
-#### Pending review
-#### in preparation
-Komnzo
-* Bine
-* Daakaka
-* Dalkalaen
--->
-## OTC Africa
-### Editors
- Alena Witzlack-Makarevich (Jerusalem), Jeff Good (Buffalo)
-
-## OTC South America
-### Editors
-Matt Coler (Groningen), Nick Emle (Groningen)
+| Area        | editors
+|:-------------|:------------------|
+|  Africa | Alena Witzlack-Makarevich (Jerusalem), Jeff Good (Buffalo) |
+|  Caucasus | Diana Forker (Jena) |
+|  Eurasia | Michael Rießler (Joensuu) |
+|  Oceania | Christian Döhler, Kilu von Prince (Düsseldorf) |
+|  South America  | Matt Coler (Groningen), Nick Emle (Groningen) |
 
 
-<!--
-### Collections
-
-#### Published
-#### In production
-#### Pending review
-#### in preparation
-* Muylaque Aymara
-* Iquito
-* Kawesqar -->
-
-<!-- ## OTC North America -->
-
-## OTC Caucasus
-### Editors
- Diana Forker (Jena)
-
-<!--
-### Collections
-
-#### Published
-#### In production
-#### Pending review
-#### in preparation
-* Hinuq
-* Sanzhi
-* Chirag Dargwa
-* Tabasaran
--->
-## OTC Eurasia:
-### Editors
- Michael Rießler (Joensuu)
 
 # FAQ (work in progress)
 
@@ -126,17 +79,17 @@ There have not been good outlets for text collections in the past. *On this and 
 
 - **How is OTC different from ...**
   - **... Pangloss?**
-    (https://pangloss.cnrs.fr) features some texts, but also a lot of other materials. When accessing materials about a certain languages, you cannot be sure what you will find. With OTC, you will know that you will find text collections.
+    [https://pangloss.cnrs.fr](Pangloss) features some texts, but also a lot of other materials. When accessing materials about a certain languages, you cannot be sure what you will find. With OTC, you will know that you will find text collections.
   - **... TIPA?**
-  (https://www.americanlinguistics.org/?page_id=1830) has texts in the languages of the Americas, but they are not open access nor available in a structured format.
+  [https://www.americanlinguistics.org/?page_id=1830](TIPA) has texts in the languages of the Americas, but they are not open access nor available in a structured format.
   - **... Texts in the Languages of the Pacific ?**
-  (https://www.langlxmelanesia.com/tilp) has texts in a variety of languages from the Pacific. The text are free to download, but have no licence information. The texts are in pdf format only, which makes it difficult to do automated analyses
+  [https://www.langlxmelanesia.com/tilp](TILP) has texts in a variety of languages from the Pacific. The text are free to download, but have no licence information. The texts are in pdf format only, which makes it difficult to do automated analyses
   - **... UCP Native American Texts?**
-  (https://press.uchicago.edu/ucp/books/series/NATAMX.html) contains 12 volumes of legacy text collections published between 1976-1980. The texts are in pdf format only, which makes it difficult to do automated analyses  Access has to be purchased.
+  [https://press.uchicago.edu/ucp/books/series/NATAMX.html](NATAMX) contains 12 volumes of legacy text collections published between 1976-1980. The texts are in pdf format only, which makes it difficult to do automated analyses  Access has to be purchased.
   - **... Publications of the Survey of California and Other Indian Languages?**
-  (https://escholarship.org/uc/bling_survey) has some freely accessible texts in pdf format. The texts are in pdf format only, which makes it difficult to do automated analyses
+  [https://escholarship.org/uc/bling_survey](BLING Survey) has some freely accessible texts in pdf format. The texts are in pdf format only, which makes it difficult to do automated analyses
   - **... Tlalocan?**
-  (https://revistas-filologicas.unam.mx/tlalocan/index.php/tl) contains texts in a variety of formats. The texts are freely accessible. They seem to contain only a full translation into Spanish/English, not a sentence-by-sentence translation or interlinear morpheme glossing.
+  [https://revistas-filologicas.unam.mx/tlalocan/index.php/tl](Tlalocan) contains texts in a variety of formats. The texts are freely accessible. They seem to contain only a full translation into Spanish/English, not a sentence-by-sentence translation or interlinear morpheme glossing.
 
 - **What standards do the collections adhere to?**
 
