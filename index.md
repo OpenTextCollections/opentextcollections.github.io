@@ -39,7 +39,7 @@ Sebastian Nordhoff, Christian Döhler, Mandana Seyfeddinipur
 - **What is a text collection?**
 A text collection is a curated and edited set of texts with interlinear morpheme translation. We can use [On this and other worlds: Voices from Amazonia ](https://langsci-press.org/catalog/book/167) as an example.
 
-```
+>
 This [book] offers a collection of twelve interlinear texts
 reflecting the vast linguistic diversity of Amazonia as well
 as the rich verbal arts and oral literature traditions of
@@ -54,13 +54,13 @@ We hear tales of tricksters and of encounters between humans
 and other beings, learn of battles between enemies, and gain
 insight into history and the indigenous perspective of creation,
 cordiality and confrontation.
-```
 
-    The texts are **curated**. This means that they have been chosen among a larger set of texts because they are particular well suited to illustrate a certain topic or a certain genre. Random sets of opportunistic texts are not a text collection as intended here.
 
-    The texts are **edited**, not naturalistic. This means that hesitation markers, false starts and self-corrections are edited out. This entails that the text given in a text collection can differ at times from the recording on which it is based.
+  The texts are **curated**. This means that they have been chosen among a larger set of texts because they are particular well suited to illustrate a certain topic or a certain genre. Random sets of opportunistic texts are not a text collection as intended here.
 
-    We require our texts to have **interlinear morpheme translations**, following the [Leipzig Glossing Rules](https://www.eva.mpg.de/lingua/resources/glossing-rules.php)
+  The texts are **edited**, not naturalistic. This means that hesitation markers, false starts and self-corrections are edited out. This entails that the text given in a text collection can differ at times from the recording on which it is based.
+
+  We require our texts to have **interlinear morpheme translations**, following the [Leipzig Glossing Rules](https://www.eva.mpg.de/lingua/resources/glossing-rules.php)
 
 - **Why are text collections useful?**
 Grammatical descriptions typically make use of isolated example sentences. It occurs that a given example would allow alternative analyses, or that it raises additional questions. A text collection can help answer these questions. Additionally, the context provided by the sentences before and after also allow for further insights. Finally, text collections are literary works and as such are enjoyable works of art by themselves, both for community members as well as outsiders.
