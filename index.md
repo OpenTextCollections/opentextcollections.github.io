@@ -39,22 +39,22 @@ Sebastian Nordhoff, Christian Döhler, Mandana Seyfeddinipur
 - **What is a text collection?**
 A text collection is a curated and edited set of texts with interlinear morpheme translation. We can use [On this and other worlds: Voices from Amazonia ](https://langsci-press.org/catalog/book/167) as an example.
 
-        ```
-        This [book] offers a collection of twelve interlinear texts
-        reflecting the vast linguistic diversity of Amazonia as well
-        as the rich verbal arts and oral literature traditions of
-        Amazonian peoples.
-        Contributions to the volume come from a variety of geographic
-        regions and represent the Carib, Jê, Tupi, East Tukano, Nadahup,
-        and Pano language families, as well as three linguistic
-        isolates. The selected texts exemplify a variety of narrative
-        styles recounting the origins of constellations, crops, and
-        sacred cemeteries, and of travel to worlds beyond death.
-        We hear tales of tricksters and of encounters between humans
-        and other beings, learn of battles between enemies, and gain
-        insight into history and the indigenous perspective of creation,
-        cordiality and confrontation.
-        ```
+```
+This [book] offers a collection of twelve interlinear texts
+reflecting the vast linguistic diversity of Amazonia as well
+as the rich verbal arts and oral literature traditions of
+Amazonian peoples.
+Contributions to the volume come from a variety of geographic
+regions and represent the Carib, Jê, Tupi, East Tukano, Nadahup,
+and Pano language families, as well as three linguistic
+isolates. The selected texts exemplify a variety of narrative
+styles recounting the origins of constellations, crops, and
+sacred cemeteries, and of travel to worlds beyond death.
+We hear tales of tricksters and of encounters between humans
+and other beings, learn of battles between enemies, and gain
+insight into history and the indigenous perspective of creation,
+cordiality and confrontation.
+```
 
     The texts are **curated**. This means that they have been chosen among a larger set of texts because they are particular well suited to illustrate a certain topic or a certain genre. Random sets of opportunistic texts are not a text collection as intended here.
 
