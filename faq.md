@@ -111,7 +111,7 @@ Will there be DOIs?
 <input type="radio" name="accordion" id="cb14" /><section class="box"><label class="box-title" for="cb14">
 Can a given text collection be amended/updated/extended?
 </label><label class="box-close" for="acc-close"></label><div class="box-content">
-<p>All text collections will be available as versioned publications, which can be updated as necessary.</p>
+<p>All text collections will be available as versioned publications, which can be updated as necessary. </p>
 </div></section>
 <input type="radio" name="accordion" id="cb15" /><section class="box"><label class="box-title" for="cb15">
 Can I publish my text elsewhere? Can I submit texts which have already been published?
