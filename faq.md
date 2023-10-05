@@ -72,18 +72,18 @@ What libraries will the project use?
 <li> we are investigating the use of Florian Matter's <a href="https://github.com/fmatter/cldflex">cldflex</a> library for the conversion from FleX to CLDF</li>
 </ul>
 </div></section>
-<input type="radio" name="accordion" id="cb7" /><section class="box"><label class="box-title" for="cb8">
+<input type="radio" name="accordion" id="cb8" /><section class="box"><label class="box-title" for="cb8">
 Where is the project hosted?
 </label><label class="box-close" for="acc-close"></label><div class="box-content">
 <p>The project is hosted at the <a href="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</a>. The
 publishing partner is <a href="https://www.langsci-press.org">Language Science Press</a>.</p>
 </div></section>
-<input type="radio" name="accordion" id="cb8" /><section class="box"><label class="box-title" for="cb9">
+<input type="radio" name="accordion" id="cb9" /><section class="box"><label class="box-title" for="cb9">
 Where can I submit my own text collections?
 </label><label class="box-close" for="acc-close"></label><div class="box-content">
 <p>As the project progresses, there will be a dedicated submission system. For the time being, you can direct requests to otc@langsci-press.org.</p>
 </div></section>
-<input type="radio" name="accordion" id="cb9" /><section class="box"><label class="box-title" for="cb9">
+<input type="radio" name="accordion" id="cb9a" /><section class="box"><label class="box-title" for="cb9a">
 Can I submit texts without audio?
 </label><label class="box-close" for="acc-close"></label><div class="box-content">
 <p>Yes, this is the standard. Audio supplements are possible, but are not the main target</p>
