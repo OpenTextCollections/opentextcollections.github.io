@@ -7,7 +7,10 @@ layout: default
 Our text collections make use of the [CLDF framework](https://cldf.clld.org). We provide import routines for a variety of formats (ELAN, FLEx, tex, ...) and we provide a variety of exports. The following chart illustrates this.
 
 
-![a diagram showing 4 input formats pointing to a backend format, and 5 output formats being exported from the backend format](inputbackendoutput.png)
+
+<img src="inputbackendoutput.png" width="100%" alt="a diagram showing 4 input formats pointing to a backend format, and 5 output formats being exported from the backend format">
+
+
 
 As the project progresses we will make available the different conversion routines as python libraries as well as as web services.
 
