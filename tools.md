@@ -11,13 +11,13 @@ Our text collections make use of the [CLDF framework](https://cldf.clld.org). We
 
 As the project progresses we will make available the different conversion routines as python libraries as well as as web services.
 
-- eaf2cldf: based on ```eldpy```
-- flex2cldf: based on ```cldflex```
-- tex2cldf: based on ```linglit```
+- eaf2cldf: based on [eldpy](https://github.com/ZAS-QUEST/eldpy)
+- flex2cldf: based on [cldflex](https://github.com/fmatter/cldflex)
+- tex2cldf: based on [linglit](https://github.com/cldf/linglit)
 - xlsx2cldf: to be developed
 
 - cldf2json
-    - json can then be imported into ElasticSearch, as is done in https://imtvault.org, to be viewed as HTML in the browser
+    - json can then be imported into ElasticSearch, as is done in [IMTVault](https://imtvault.org), to be viewed as HTML in the browser
 - cldf2gb4e to generate pdfs via LaTeX
     - print-on-demand books via BoD based on these pdfs.
 
