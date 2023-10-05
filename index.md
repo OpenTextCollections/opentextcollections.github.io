@@ -10,7 +10,8 @@ We will produce at least 10 text collections during the funding period, but hope
 # Collections
 The following map shows the languages where people are currently preparing text collections for submission. Colors will be used to show the progress of the collections as they being reviewed, accepted, and published.
 
-![a world map showing 28 red dots representing languages in South America, Africa, Europe, Asia, and the Pacific](otclgs.png)
+<img src="otclgs.png" width="100%" alt="worldmap with language dots" description="a world map showing 28 red dots representing languages in South America, Africa, Europe, Asia, and the Pacific">
+
 
 
 

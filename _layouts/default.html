@@ -6,6 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,maximum-scale=2">
     <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="shortcut icon" type="image/png" href="/favicon.png">
 
 {% seo %}
     {% include head-custom.html %}
@@ -37,8 +38,9 @@
     <div id="tabs">
       <div><a href="/index">Home</div>
       <div><a href="/regionalboards">Regional boards</a></div>
-<!--       <div><a href="/collections">Collections</a></div> -->
+      <div><a href="/collections">Collections</a></div>
 <!--       <div><a href="/tools">Tools</a></div> -->
+      <div><a href="/publications">Publications</a></div>
       <div><a href="/faq">FAQ</a></div>
     </div>
         {{ content }}
@@ -51,8 +53,14 @@
         {% if site.github.is_project_page %}
         <p class="copyright">{{ site.title | default: site.github.repository_name }} maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
+        <span id="mastodon"><a href="https://fedihum.org/@otc"><img src="/imgs/fedihum.png"  style="border:none;box-shadow:none;margin:0px"   height="24px"/></a></span>
+        <span id="twitter"><a href="https://twitter.com/opentextcoll"><img src="/imgs/twitter.png" style="border:none;box-shadow:none;margin:0px;"  height="24px" /></a></span>
+        <span id="twitter"><a href="https://github.com/opentextcollection"><img src="/imgs/github.png" style="border:none;box-shadow:none;margin:0px;"  height="24px" /></a></span>
+<!--         <span id="instagram"></span> -->
+<!--         <span id="facebook"></span> -->
         <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
       </footer>
     </div>
   </body>
 </html>
+
