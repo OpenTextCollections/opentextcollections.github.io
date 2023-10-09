@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-{% include_relative proposaltemplate.md %}
+{% include_relative proposaltemplate_OTC.md %}
 
 # Download area
 - [proposaltemplate_OTC.odt](/proposaltemplate.odt)
