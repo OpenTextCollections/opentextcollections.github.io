@@ -114,7 +114,7 @@ Can a given text collection be amended/updated/extended?
 <p>All text collections will be available as versioned publications, which can be updated as necessary. </p>
 </div></section>
 <input type="radio" name="accordion" id="cb15" /><section class="box"><label class="box-title" for="cb15">
-Can I publish my text elsewhere? Can I submit texts which have already been published?
+Can I publish my texts elsewhere? Can I submit texts which have already been published?
 </label><label class="box-close" for="acc-close"></label><div class="box-content">
 <p>OTC does not require exclusivity. You are free to submit collections based on texts which are already available elsewhere (provided this does not infringe upon third party rights), and you are free to reuse OTC texts elsewhere.</p>
 </div></section>
