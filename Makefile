@@ -1,11 +1,11 @@
-proposaltemplate.docx: proposaltemplate.md
-	pandoc -i proposaltemplate.md -o proposaltemplate.docx
+proposaltemplate_OTC.docx: proposaltemplate_OTC.md
+	pandoc -i proposaltemplate_OTC.md -o proposaltemplate_OTC.docx
 
-proposaltemplate.pdf: proposaltemplate.md
-	pandoc -i proposaltemplate.md -o proposaltemplate.pdf
+proposaltemplate_OTC.pdf: proposaltemplate_OTC.md
+	pandoc -i proposaltemplate_OTC.md -o proposaltemplate_OTC.pdf
 
-proposaltemplate.odt: proposaltemplate.md
-	pandoc -i proposaltemplate.md -o proposaltemplate.odt
+proposaltemplate_OTC.odt: proposaltemplate_OTC.md
+	pandoc -i proposaltemplate_OTC.md -o proposaltemplate_OTC.odt
 
-proposaltemplates: proposaltemplate.docx proposaltemplate.pdf proposaltemplate.odt
+proposaltemplates: proposaltemplate_OTC.docx proposaltemplate_OTC.pdf proposaltemplate_OTC.odt
 
