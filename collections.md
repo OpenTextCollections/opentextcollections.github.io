@@ -12,14 +12,18 @@ All published collections will be available at [our Zenodo community](https://ze
 
 The following table shows how many collections are found at the various stages in the different regions. Once a collection is published, the dot will be replaced by the actual language name.
 
-
-| Area        | expression of interest | submitted | rejected | accepted | published
-|:--------------------|:---------------|:----------|:---------|:---------|:---------|
-|  **Africa**         | <span style="color:grey"> ⬤⬤⬤</span>|<span style="color:tan">  </span>|<span style="color:#ee0000">  </span>|<span style="color:#aaffaa">  </span>|<span style="color:#00ee00">  </span>         |
-|  **Caucasus**       | <span style="color:grey">  ⬤⬤⬤⬤⬤⬤⬤⬤ </span>  |<span style="color:tan">  </span>|<span style="color:#ee0000">  </span>|<span style="color:#aaffaa">  </span>|<span style="color:#00ee00">  </span>         |
-|  **Eurasia**        | <span style="color:grey">  ⬤⬤⬤⬤     </span>  |<span style="color:tan">  </span>|<span style="color:#ee0000">  </span>|<span style="color:#aaffaa">  </span>|<span style="color:#00ee00">  </span>         |
-|  **Papunesia**      | <span style="color:grey">  ⬤⬤⬤⬤⬤⬤⬤  </span>  |<span style="color:tan">  </span>|<span style="color:#ee0000">  </span>|<span style="color:#aaffaa">  </span>|<span style="color:#00ee00">  </span>         |
-|  **South America**  | <span style="color:grey">  ⬤⬤⬤⬤⬤⬤⬤⬤ </span>  |<span style="color:tan">  </span>|<span style="color:#ee0000">  </span>|<span style="color:#aaffaa">  </span>|<span style="color:#00ee00">  </span>         |
+<table id="collection_overview">
+<thead>
+<tr><th>Area</th><th>expression of interest</th><th>submitted</th><th>rejected</th><th>accepted</th><th>published</th></tr>
+</thead>
+<tbody>
+<tr><td>Africa       </td><td>⬤⬤⬤     </td><td>    </td><td>    </td><td>    </td><td>    </td></tr>
+<tr><td>Caucasus     </td><td>⬤⬤⬤⬤⬤⬤⬤⬤</td><td>    </td><td>    </td><td>    </td><td>    </td></tr>
+<tr><td>Eurasia      </td><td>⬤⬤⬤⬤    </td><td>    </td><td>    </td><td>    </td><td>    </td></tr>
+<tr><td>Papunesia    </td><td>⬤⬤⬤⬤⬤⬤⬤ </td><td>    </td><td>    </td><td>    </td><td>    </td></tr>
+<tr><td>South America</td><td>⬤⬤⬤⬤⬤⬤⬤⬤</td><td>    </td><td>    </td><td>    </td><td>    </td></tr>
+</tbody>
+</table>
 
 Information current as of 2023-10-05
 
