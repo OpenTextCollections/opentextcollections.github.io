@@ -22,7 +22,4 @@ The project is funded by the Deutsche Forschungsgemeinschaft (DFG, German Resear
 Sebastian Nordhoff, Christian Döhler, Mandana Seyfeddinipur
 
 # Contact
-Berlin-Brandenburg Academy of Sciences and Humanities (BBAW)
-Jägerstrasse 22/23
-D-10117 Berlin
-otc[at]langsci-press.org
+Berlin-Brandenburg Academy of Sciences and Humanities (BBAW), Jägerstrasse 22/23, D-10117 Berlin, email: otc@langsci-press.org
