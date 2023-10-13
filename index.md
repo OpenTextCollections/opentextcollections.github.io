@@ -15,10 +15,14 @@ The following map shows the languages where people are currently preparing text 
 
 
 
-# Funding
-The project is funded by the DFG from 2023-2025 and will thereafter be funded by a consortium of research institutions similar to Language Science Press
+# Funding and Support
+The project is funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) from 2023-2025 and will thereafter be funded by a consortium of research institutions similar to Language Science Press. The project is based at the Berlin-Brandenburgische Akademie der Wissenschaften (BBAW, Berlin-Brandenburg Academy of Sciences and Humanities).
 
 # Project team
 Sebastian Nordhoff, Christian Döhler, Mandana Seyfeddinipur
 
-
+# Contact
+Berlin-Brandenburg Academy of Sciences and Humanities (BBAW)
+Jägerstrasse 22/23
+D-10117 Berlin
+otc[at]langsci-press.org
