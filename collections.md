@@ -16,15 +16,15 @@ The following table shows how many collections are found at the various stages i
 <thead>
 <tr><th>Area</th><th>expression of interest</th><th>submitted</th><th>rejected</th><th>accepted</th><th>published</th></tr>
 </thead>
-<tbody>
+<tbody>                  <!--EoI              submitted   rejected     accepted     published -->
 <tr><td>Africa       </td><td>⬤⬤⬤     </td><td>    </td><td>    </td><td>    </td><td>    </td></tr>
 <tr><td>Caucasus     </td><td>⬤⬤⬤⬤⬤⬤⬤⬤</td><td>    </td><td>    </td><td>    </td><td>    </td></tr>
-<tr><td>Eurasia      </td><td>⬤⬤⬤⬤    </td><td>    </td><td>    </td><td>    </td><td>    </td></tr>
-<tr><td>Papunesia    </td><td>⬤⬤⬤⬤⬤⬤⬤ </td><td>    </td><td>    </td><td>    </td><td>    </td></tr>
-<tr><td>South America</td><td>⬤⬤⬤⬤⬤⬤⬤⬤</td><td>    </td><td>    </td><td>    </td><td>    </td></tr>
+<tr><td>Eurasia      </td><td>⬤⬤⬤     </td><td>⬤   </td><td>    </td><td>    </td><td>    </td></tr>
+<tr><td>Papunesia    </td><td>⬤⬤⬤⬤⬤⬤  </td><td>⬤   </td><td>    </td><td>    </td><td>    </td></tr>
+<tr><td>South America</td><td>⬤⬤⬤⬤⬤⬤⬤ </td><td>⬤   </td><td>    </td><td>    </td><td>    </td></tr>
 </tbody>
 </table>
 
-Information current as of 2023-10-05
+Information current as of 2023-10-15
 
 
