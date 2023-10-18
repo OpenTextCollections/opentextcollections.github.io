@@ -175,7 +175,7 @@ How is OTC different from ...
 <ul>
  <li>Pangloss?</li>
   <p>
-  <a href="https://pangloss.cnrs.fr">Pangloss</a> features some texts, but also a lot of other materials. When accessing materials about a certain languages, you cannot be sure what you will find. With OTC, you will know that you will find text collections.
+  <a href="https://pangloss.cnrs.fr">Pangloss</a> features some texts, but also a lot of other materials. When accessing materials about a certain language, you cannot be sure what you will find. With OTC, you will know that you will find text collections.
   </p>
   <li>TIPA?</li>
   <p>
@@ -183,7 +183,7 @@ How is OTC different from ...
   </p>
   <li>Texts in the Languages of the Pacific?</li>
   <p>
-  <a href="https://www.langlxmelanesia.com/tilp">TILP</a> has texts in a variety of languages from the Pacific. The text are free to download, but have no licence information. The texts are in pdf format only, which makes it difficult to do automated analyses
+  <a href="https://www.langlxmelanesia.com/tilp">TILP</a> has texts in a variety of languages from the Pacific. The texts are free to download, but have no licence information. The texts are in pdf format only, which makes it difficult to do automated analyses
   </p>
   <li>UCP Native American Texts?</li>
   <p>
