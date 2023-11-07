@@ -21,13 +21,15 @@ Open Text Collections publishes curated and edited text collections. All text co
 - *Linguistic*: Where is the language spoken, by how many people, in which setting? What is the genealogical affiliation and what are the contact languages?
 - *Anthropological/sociological*: How is the community structured? Which types of settlements/housing/food/work/beliefs/rituals/political organization do we find?
 - *Philological*: Is there a narrative tradition this collection relates to? Do we know of the narrative traditions of neighbouring/related communities and how they are similar/different? Can some general patterns be observed (e.g. trickster stories)
-- *Representative file*: Please send one representative file along with your proposal so that we can evaluate the technical quality of your work
-
 
 ## Next steps
+- *Representative file*: 
+    - Please send us one representative file so that we can evaluate the technical quality and validity of your submission
 - *If the proposal is accepted*:
     - Send all files
-    - Among the files sent, some will be reviewed in their entirety, while for others, a sample of sentences to be reviewed will be drawn
+- *Review process*:
+    - We will choose two anonymous reviewers, who will comment on your text collection and on the introductory text
+    - Since no reviewer will be able to read carefully through all the files, we do the following: some texts will be reviewed in their entirety, while for others, a random sample of sentences will be drawn
 
 ## Evaluation criteria
 - *Coherence*: Is this a random set of narratives, or can the readers see what ties them together?
