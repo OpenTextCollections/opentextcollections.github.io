@@ -1,0 +1,62 @@
+Africa:
+    EOI:
+        - A1
+        - A2
+        - A11
+        - A3
+        - A23
+    submitted:
+    rejected:
+    accepted:
+    published:
+Caucasus:
+    EOI:
+        - C1
+        - C2
+        - C3
+        - C4
+        - C5
+        - C6
+        - C7
+        - C8
+    submitted:
+    rejected:
+    accepted:
+    published:
+Eurasia:
+    EOI:
+        - E1
+        - E2
+        - E3
+    submitted:
+        - E4
+    rejected:
+    accepted:
+    published:
+Papunesia:
+    EOI:
+        - P1
+        - P2
+        - P3
+        - P4
+    submitted:
+        - P5
+        - P6
+        - P7
+    rejected:
+    accepted:
+    published:
+South America:
+    EOI:
+        - S1
+        - S2
+        - S3
+        - S4
+        - S5
+        - S6
+    submitted:
+        - S7
+        - S8
+    rejected:
+    accepted:
+    published:

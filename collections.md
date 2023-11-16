@@ -12,19 +12,46 @@ All published collections will be available at [our Zenodo community](https://ze
 
 The following table shows how many collections are found at the various stages in the different regions. Once a collection is published, the dot will be replaced by the actual language name.
 
-<table id="collection_overview">
+<!--<table id="collection_overviewx">
 <thead>
 <tr><th>Area</th><th>expression of interest</th><th>submitted</th><th>rejected</th><th>accepted</th><th>published</th></tr>
 </thead>
-<tbody>                  <!--EoI              submitted   rejected     accepted     published -->
+<tbody>
 <tr><td>Africa       </td><td>⬤⬤⬤     </td><td>    </td><td>    </td><td>    </td><td>    </td></tr>
 <tr><td>Caucasus     </td><td>⬤⬤⬤⬤⬤⬤⬤⬤</td><td>    </td><td>    </td><td>    </td><td>    </td></tr>
 <tr><td>Eurasia      </td><td>⬤⬤⬤     </td><td>⬤   </td><td>    </td><td>    </td><td>    </td></tr>
 <tr><td>Papunesia    </td><td>⬤⬤⬤⬤⬤⬤  </td><td>⬤   </td><td>    </td><td>    </td><td>    </td></tr>
 <tr><td>South America</td><td>⬤⬤⬤⬤⬤⬤⬤ </td><td>⬤   </td><td>    </td><td>    </td><td>    </td></tr>
 </tbody>
+</table>-->
+
+<table id="collection_overview">
+    <thead>
+        <tr>
+            <th>Area</th>
+            <th>expression of interest</th>
+            <th>submitted</th>
+            <th>rejected</th>
+            <th>accepted</th>
+            <th>published</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for area in site.data.submissions %}
+            <tr>
+                <td>{{ area[0] }}</td>
+                    {%for status in area[1] %}
+                    <td>
+                        {% for lg in status[1] %}
+                            ⬤
+                        {% endfor %}
+                    </td>
+                    {% endfor %}
+            </tr>
+        {% endfor %}
+    </tbody>
 </table>
 
-Information current as of 2023-10-15
+Information current as of 2023-11-06
 
 

@@ -591,7 +591,7 @@ table{
 }
 
 #collection_overview tbody tr td:nth-child(3) {
-  color: tan;
+  color: #e2b576;
 }
 
 #collection_overview tbody tr td:nth-child(4) {
@@ -603,31 +603,39 @@ table{
 }
 
 #collection_overview tbody tr td:nth-child(6) {
-  color: #00ee00;
+  color: #204e44;
 }
 
+a:hover, a:focus {
+	text-decoration: underline;
+	color: #c18558;
+}
 
+a {
+	text-decoration: none;
+	text-shadow: none;
+	transition: text-shadow 0.5s ease 0s;
+	color: #a75030;
+}
 
+#header_wrap {
+	background-image: url('background_header.png') !important;
+}
 
+th {
+	background: #204e44;
+}
 
+label{
+  color: #a75030;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// rotbraun a75030
+// ocker #a75030
+// hellocker e2b576
+// rosabraun dca27f
+// gruen 204e44
+// hellbraun c18558
 
 
 
