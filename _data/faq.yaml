@@ -13,22 +13,26 @@ faqs:
       a: >
         There have not been good outlets for text collections in the past. <emph>On this and other worlds</emph> is a text collection from the Amazon published by Language Science Press in 2017. See the next question for other publications outlets where text collections have been published.
 
-    - q: What standards do the collections adhere to?
-      a: >
-        Our text collection are in Unicode and follow the Leipzig Glossing Rules. The following elements are mandadory: vernacular line, interlinear morpheme translation, translation line. Further lines can optionally be added. </p><p>The backend will use the CSVW format https://www.w3.org/TR/tabular-data-primer/. We will follow <a href="FAIR principles">https://www.go-fair.org/fair-principles</a> and are investigating <a href="https://www.gida-global.org/care">CARE principles</a>.
-
-    - q: What libraries will the project use?
-      a: >
-        We can rely on the existing libraries:         <ul>        <li> the <a href="https://cldf.clld.org">CLDF framework</a></li>        <li> <a href="https://github.com/ZAS-QUEST/eldpy">eldpy</a> for conversion eaf -> cldf</li>        <li> we are investigating the use of Florian Matter's <a href="https://github.com/fmatter/cldflex">cldflex</a> library for the conversion from FleX to CLDF</li>        </ul>
-
     - q: Where is the project hosted?
       a: The project is hosted at the <a href="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</a>. The publishing partner is <a href="https://www.langsci-press.org">Language Science Press</a>.
 
     - q: Where can I submit my own text collections?
       a: As the project progresses, there will be a dedicated submission system. For the time being, you can direct requests to otc@langsci-press.org.
 
+    - q: Can I publish my texts elsewhere? Can I submit texts which have already been published?
+      a: OTC does not require exclusivity. You are free to submit collections based on texts which are already available elsewhere (provided this does not infringe upon third party rights), and you are free to reuse OTC texts elsewhere.
+
+    - q: Can I submit a collection in ELAN/FLEx/Word/LaTeX/pdf/XYZ?
+      a: We will provide ingestion routines for ELAN, FLEx and tex (at least gb4e, maybe also linguex). For these formats, we will develop templates together with pilot authors. For MS Word/LibreOffice, it is not impossible, but not guaranteed, that templates and ingestion routines will be provided as well.
+
+    - q: Will there be audio? video?
+      a: The primary medium is written text. Audio and video are optional.
+
     - q: Can I submit texts without audio?
       a: Yes, this is the standard. Audio supplements are possible, but are not the main target
+
+    - q: What sizes do text collections have?
+      a: A text collection should give you a good overview of a given topic. Depending on the domain covered, this can be smaller or larger. It is possible to imagine domains with very few texts, which are nevertheless exhaustive and self-contained (eg "North wind", "East wind", "South wind", "West wind"), but it is also possible to imagine collections with a much larger amounts of texts.</p><p>At the same time, one can also have collections of very short texts (eg lullabies) or very long texts (epics). So, there is no hard and fast quantitative specification of how many words/sentences/texts a text collection should contain.
 
     - q: Can I submit text collections of historical/extinct languages?
       a: Yes, as long as they are edited, curated, and interlinearized
@@ -37,20 +41,14 @@ faqs:
       a: >
         Yes, as long as they are thematically coherent. Cf. <a href="https://langsci-press.org/catalog/book/167">On this and other worlds: Voices from Amazonia</a>.
 
-    - q: Will there be long time archiving?
-      a: All accepted collections will be available at <a href="https://zenodo.org/communities/otc">our Zenodo community</a>
+    - q: Can I provide translations in more than one language?
+      a: Next to the language of wider communication, you can add as many additional translations as you like. Not all output formats will be able to pick up this information, though.
 
-    - q: Will there be DOIs?
-      a: Each released version of a text collection will get its own DOI. For the time being, we do not plan DOIs for the component texts, but we might review this later.
+    - q: Can I provide a practical orthography next to a phonological representation?
+      a: In principle yes, but please get in touch so that we can discuss the details of the relations between the different tiers, which can be non-trivial.
 
     - q: Can a given text collection be amended/updated/extended?
       a: All text collections will be available as versioned publications, which can be updated as necessary.
-
-    - q: Can I publish my texts elsewhere? Can I submit texts which have already been published?
-      a: OTC does not require exclusivity. You are free to submit collections based on texts which are already available elsewhere (provided this does not infringe upon third party rights), and you are free to reuse OTC texts elsewhere.
-
-    - q: What is the legal framework?
-      a: The laws of Germany apply.
 
     - q: How will peer review be organized?
       a: All collections will undergo a formal review (<em>Are all sentences glossed? Are all sentences translated? Do the number of morphemes match between source line and gloss line</em>, ...) and a content review (<em>Is the collection coherent?, Were the collectors diligent and respectful of the standards of the discipline?, ...</em>). The formal review will be automated. The content review will be organized by the regional boards.
@@ -58,29 +56,26 @@ faqs:
     - q: What ways are there to read or otherwise interact with a given text collection?
       a: We treat text collections as research data and store them in a structured format in the backend. For different audiences, we will make the data available in different formats. As a default, we will provide HTML, PDF, and print-on-demand books for human readers and CSV and JSON-LD for machine consumption.
 
-    - q: Will there be audio? video?
-      a: The primary medium is written text. Audio and video are optional.
-
     - q: Are the texts naturalistic?
       a: No, the texts are curated and edited. For the time being, monological texts are the main focus, but we do not exclude having more than one participant for particular genres.</p><p>Text collections can contain links to the original recordings if these are available. These are often found in language archive. For researchers interested in naturalistic data, language archives will be a better resource than text collections.
 
-    - q: Can I submit a collection in ELAN/FLEx/Word/LaTeX/pdf/XYZ?
-      a: We will provide ingestion routines for ELAN, FLEx and tex (at least gb4e, maybe also linguex). For these formats, we will develop templates together with pilot authors. For MS Word/LibreOffice, it is not impossible, but not guaranteed, that templates and ingestion routines will be provided as well.
+    - q: Will there be long time archiving?
+      a: All accepted collections will be available at <a href="https://zenodo.org/communities/otc">our Zenodo community</a>
 
-    - q: What kind of backend are you using?
-      a: We will use <a href="https://cldf.clld.org">CLDF</a> for backend storage and versioning. We will provide conversion routines for FLEx/ELAN/tex
+    - q: Will there be DOIs?
+      a: Each released version of a text collection will get its own DOI. For the time being, we do not plan DOIs for the component texts, but we might review this later.
 
-    - q: In what form will a text collection be available?
-      a: All texts will be available as HTML to be read in a browser, as pdf to be read on a computer, and as printed book to be read offline. Additionally, the backend data will be available as csv, json, and possibly rdf if there is demand.
+    - q: What standards do the collections adhere to?
+      a: >
+        Our text collection are in Unicode and follow the Leipzig Glossing Rules. The following elements are mandadory: vernacular line, interlinear morpheme translation, translation line. Further lines can optionally be added. </p><p>The backend will use the CSVW format https://www.w3.org/TR/tabular-data-primer/. We will follow <a href="FAIR principles">https://www.go-fair.org/fair-principles</a> and are investigating <a href="https://www.gida-global.org/care">CARE principles</a>.
 
-    - q: What sizes do text collections have?
-      a: A text collection should give you a good overview of a given topic. Depending on the domain covered, this can be smaller or larger. It is possible to imagine domains with very few texts, which are nevertheless exhaustive and self-contained (eg "North wind", "East wind", "South wind", "West wind"), but it is also possible to imagine collections with a much larger amounts of texts.</p><p>At the same time, one can also have collections of very short texts (eg lullabies) or very long texts (epics). So, there is no hard and fast quantitative specification of how many words/sentences/texts a text collection should contain.
+    - q: What libraries will the project use?
+      a: >
+        We can rely on the existing libraries: <ul><li> the <a href="https://cldf.clld.org">CLDF framework</a></li><li> <a href="https://github.com/ZAS-QUEST/eldpy">eldpy</a> for conversion eaf -> cldf</li><li> we are investigating the use of Florian Matter's <a href="https://github.com/fmatter/cldflex">cldflex</a> library for the conversion from FleX to CLDF</li>        </ul>
+
+    - q: What is the legal framework?
+      a: The laws of Germany apply.
 
     - q: How can I contact the project?
       a: You can write to us at otc@langsci-press.org
 
-    - q: Can I provide translation in more than one language?
-      a: Next to the language of wider communication, you can add as many additional translations as you like. Not all output formats will be able to pick up this information, though.
-
-    - q: Can I provide a practical orthography next to a phonological representation?
-      a: In principle yes, but please get in touch so that we can discuss the details of the relations between the different tiers, which can be non-trivial.
