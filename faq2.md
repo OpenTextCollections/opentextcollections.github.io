@@ -48,6 +48,7 @@ cordiality and confrontation.
         </label>
         <label class="box-close" for="acc-close"></label>
         <div class="box-content">
+          <p></p>
           <p>{{ pair['a'] }}</p>
         </div>
       </section>
