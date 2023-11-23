@@ -9,12 +9,10 @@ faqs:
     - q:  What is the relation to language archives?
       a: Language archives have large deposits of heterogeneous items, often multimedia and typically naturalistic. It is possible to draw upon language archives to start a text collection. This will will require editorial work, such as selection, polishing, and contextualization.
 
-    - q: Where were text collections published before?
-      a: >
-        There have not been good outlets for text collections in the past. <emph>On this and other worlds</emph> is a text collection from the Amazon published by Language Science Press in 2017. See the next question for other publications outlets where text collections have been published.
 
     - q: Where is the project hosted?
-      a: The project is hosted at the <a href="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</a>. The publishing partner is <a href="https://www.langsci-press.org">Language Science Press</a>.
+      a: >
+       The project is hosted at the <a href="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</a>. The publishing partner is <a href="https://www.langsci-press.org">Language Science Press</a>.
 
     - q: Where can I submit my own text collections?
       a: As the project progresses, there will be a dedicated submission system. For the time being, you can direct requests to otc@langsci-press.org.
@@ -79,3 +77,7 @@ faqs:
     - q: How can I contact the project?
       a: You can write to us at otc@langsci-press.org
 
+
+    - q: Where were text collections published before?
+      a: >
+        There have not been good outlets for text collections in the past. <a href="https://langsci-press.org/catalog/book/167">On this and other worlds: Voices from Amazonia</a> is a text collection from the Amazon published by Language Science Press in 2017. See the next question for other publications outlets where text collections have been published.
