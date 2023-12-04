@@ -34,7 +34,8 @@ faqs:
       a: Yes, as long as they are edited, curated, and interlinearized.
 
     - q: Can I submit text collections comprising more than one language?
-      a: Yes, as long as they are thematically coherent. Cf. <a href="https://langsci-press.org/catalog/book/167">On this and other worlds: Voices from Amazonia</a>.
+      a: Yes, as long as they are thematically coherent.>
+      Cf. <a href="https://langsci-press.org/catalog/book/167">On this and other worlds: Voices from Amazonia</a>.
 
     - q: Can I provide translations in more than one language?
       a: Next to the language of wider communication, you can add as many additional translations as you like. Not all output formats will be able to pick up this information, though.
@@ -57,20 +58,13 @@ faqs:
     - q: Will there be long time archiving?
       a: All accepted collections will be available at <a href="https://zenodo.org/communities/otc">our Zenodo community</a>
 
-    - q: Will there be DOIs?
-      a: Each released version of a text collection will get its own DOI. For the time being, we do not plan DOIs for the component texts, but we might review this later.
-
-    - q: What standards do the collections adhere to?
-      a: Our text collection are in Unicode and follow the <a href="https://www.eva.mpg.de/lingua/pdf/Glossing-Rules.pdf">Leipzig Glossing Rules</a>. The following elements are mandadory: vernacular line, interlinear morpheme translation, translation line. Further lines can be optionally added. </p><p>The backend will use the <a fref="https://www.w3.org/TR/tabular-data-primer">CSVW format<\a>. We will follow <a href="https://www.go-fair.org/fair-principles">FAIR principles</a> and are investigating <a href="https://www.gida-global.org/care">CARE principles</a>.
-
-    - q: What libraries will the project use?
-      a: We can rely on the existing libraries: <ul><li> the <a href="https://cldf.clld.org">CLDF framework</a></li><li> <a href="https://github.com/ZAS-QUEST/eldpy">eldpy</a> for conversion eaf -> cldf</li><li> we are investigating the use of Florian Matter's <a href="https://github.com/fmatter/cldflex">cldflex</a> library for the conversion from FleX to CLDF</li>        </ul>
-
     - q: What is the legal framework?
       a: The laws of Germany apply.
 
     - q: How can I contact the project?
-      a: You can write to us at: otc@langsci-press.org
+      a: >
+      You can write to us at: otc@langsci-press.org
 
     - q: Where were text collections published before?
-      a: There have not been good outlets for text collections in the past. <a href="https://langsci-press.org/catalog/book/167">On this and other worlds: Voices from Amazonia</a> is a text collection from the Amazon published by Language Science Press in 2017. See the next question for other publications outlets where text collections have been published.
+      a: >
+      There have not been good outlets for text collections in the past. <a href="https://langsci-press.org/catalog/book/167">On this and other worlds: Voices from Amazonia</a> is a text collection from the Amazon published by Language Science Press in 2017. See the next question for other publications outlets where text collections have been published.
