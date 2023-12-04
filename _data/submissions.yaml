@@ -1,62 +1,62 @@
 Africa:
     EOI:
-        - A1
-        - A2
-        - A11
-        - A3
-        - A23
+        - mb
+        - ru
+        - ta
+        - wa
     submitted:
     rejected:
     accepted:
     published:
 Caucasus:
     EOI:
-        - C1
-        - C2
-        - C3
-        - C4
-        - C5
-        - C6
-        - C7
-        - C8
+        - al
+        - ta
+        - ts
+        - hi
+        - sa
+        - ch
+        - ta
+        - ka
     submitted:
     rejected:
     accepted:
     published:
 Eurasia:
     EOI:
-        - E1
-        - E2
-        - E3
+        - ph
+        - ga
+        - sa
+        - ko  
     submitted:
-        - E4
+        - sa
     rejected:
     accepted:
     published:
 Papunesia:
     EOI:
-        - P1
-        - P2
-        - P3
-        - P4
+        - bi
+        - da
+        - da
+        - va
     submitted:
-        - P5
-        - P6
-        - P7
+        - so
+        - wa
+        - en
     rejected:
     accepted:
     published:
 South America:
     EOI:
-        - S1
-        - S2
-        - S3
-        - S4
-        - S5
-        - S6
+        - wa
+        - no
+        - or
+        - bo
+        - ka
+        - co
     submitted:
-        - S7
-        - S8
+        - iq
+        - ce
     rejected:
     accepted:
     published:
