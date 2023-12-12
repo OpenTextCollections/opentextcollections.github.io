@@ -34,7 +34,8 @@ faqs:
       a: Yes, as long as they are edited, curated, and interlinearized.
 
     - q: Can I submit text collections comprising more than one language?
-      a: Yes, as long as they are thematically coherent. Cf. <a href="https://langsci-press.org/catalog/book/167">On this and other worlds: Voices from Amazonia</a>.
+      a: >
+      Yes, as long as they are thematically coherent. Cf. <a href="https://langsci-press.org/catalog/book/167">On this and other worlds: Voices from Amazonia</a>.
 
     - q: Can I provide translations in more than one language?
       a: Next to the language of wider communication, you can add as many additional translations as you like. Not all output formats will be able to pick up this information, though.
