@@ -7,6 +7,7 @@ layout: default
 ## upcoming
 ### "consumer workshop" 2023-12-12, BBAW.
 The goal of this workshop is to engage with NLP practitioners to get to know their requirements.
+
 Participants:
 Christian Döhler (BBAW-OTC),
 Sebastian Nordhoff (BBAW-OTC),
