@@ -25,7 +25,18 @@ Participants:
 
 ## past
 ### regional board kick-off, 2023-09-29, BBAW.
-Participants: Alena Witzlack, Jeff Good, Nadine Grimm, Scott Grimm, Sebastian Nordhoff, Christian Döhler, Mandana Seyfeddinipur, Kilu von Prince, Michael Rießler, Nick Emlen, Kelsey Neely
+Participants:
+- Alena Witzlack,
+- Jeff Good,
+- Nadine Grimm,
+- Scott Grimm,
+- Sebastian Nordhoff,
+- Christian Döhler,
+- Mandana Seyfeddinipur,
+- Kilu von Prince,
+- Michael Rießler,
+- Nick Emlen,
+- Kelsey Neely
 
 
 
