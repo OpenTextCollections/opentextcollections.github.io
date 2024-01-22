@@ -2,25 +2,20 @@
 layout: default
 ---
 
-# Tools
 
-Our text collections make use of the [CLDF framework](https://cldf.clld.org). We provide import routines for a variety of formats (ELAN, FLEx, tex, ...) and we provide a variety of exports. The following chart illustrates this.
+The following web services are proposed:
 
-
-
-<img src="inputbackendoutput.png" width="100%" alt="a diagram showing 4 input formats pointing to a backend format, and 5 output formats being exported from the backend format">
-
-
-
-As the project progresses we will make available the different conversion routines as python libraries as well as as web services.
-
-- eaf2cldf: based on [eldpy](https://github.com/ZAS-QUEST/eldpy)
-- flex2cldf: based on [cldflex](https://github.com/fmatter/cldflex)
-- tex2cldf: based on [linglit](https://github.com/cldf/linglit)
-- xlsx2cldf: to be developed
-
-- cldf2json
-    - json can then be imported into ElasticSearch, as is done in [IMTVault](https://imtvault.org), to be viewed as HTML in the browser
-- cldf2gb4e to generate pdfs via LaTeX
-    - print-on-demand books via BoD based on these pdfs.
-
+## Convert an ELAN file to CLDF
+<form action="https://www.langsci-press-gug.org/doc2tex/eaf2cldf" method="post" enctype="multipart/form-data">
+<p>Choose an ELAN eaf<br>
+<input name="eaffile" type="file" size="150" />
+</p>
+<input type="submit" value="Convert"/>
+</form>
+## Convert a FLEx flextext file to CLDF
+<form action="https://www.langsci-press-gug.org/doc2tex/flex2cldf" method="post" enctype="multipart/form-data">
+<p>Choose a FLEx flextext file<br>
+<input name="flexfile" type="file" size="150" />
+</p>
+<input type="submit" value="Convert"/>
+</form>
