@@ -4,6 +4,9 @@ Africa:
         - ru
         - ta
         - wa
+        - go
+        - ha
+        - ih
     submitted:
     rejected:
     accepted:
@@ -27,7 +30,10 @@ Eurasia:
         - ph
         - ga
         - sa
-        - ko  
+        - ko 
+        - ga
+        - ph
+        - al 
     submitted:
         - sa
     rejected:
@@ -39,6 +45,9 @@ Papunesia:
         - da
         - da
         - va
+        - vu
+        - mu
+        - wa
     submitted:
         - so
         - wa
@@ -54,9 +63,18 @@ South America:
         - bo
         - ka
         - co
+        - pu
     submitted:
         - iq
         - ce
     rejected:
     accepted:
     published:
+North America:
+  EOI:
+    -na
+  submitted:
+  rejected:
+  accepted:
+  published:
+
