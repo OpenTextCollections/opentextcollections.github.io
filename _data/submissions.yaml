@@ -3,11 +3,11 @@ Africa:
         - mb
         - ru
         - ta
+    submitted:
         - wa
         - go
         - ha
         - ih
-    submitted:
     rejected:
     accepted:
     published:
@@ -29,13 +29,13 @@ Eurasia:
     EOI:
         - ph
         - ga
-        - sa
         - ko 
         - ga
         - ph
-        - al 
+        - al         
     submitted:
         - sa
+        - ev
     rejected:
     accepted:
     published:
@@ -63,10 +63,10 @@ South America:
         - bo
         - ka
         - co
-        - pu
     submitted:
         - iq
         - ce
+        - pu
     rejected:
     accepted:
     published:
