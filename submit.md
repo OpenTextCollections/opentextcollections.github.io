@@ -16,7 +16,6 @@ are created. This may include audio-visual footage, transcription files, and/or 
 For collections drawn together from the original documentary work of the contributor(s), we strongly encourage archiving the source recordings with a reputable archive so that these records are discoverable, available to the public, and preserved for future generations. We recommend selecting an archive from the [DELAMAN](https://www.delaman.org/) network, a network of trusted archives for endangered languages and musics. Some archives have a particular regional focus that might be most appropriate to your collection, others are open to collections from anywhere in the world. You can search for member archives on the [DELAMAN](https://www.delaman.org/) site and find more information about each archive on their individual websites.
 
 For contributors who do not have another archive preference, the Endangered Languages Archive ([ELAR](https://www.elararchive.org/)) has generously offered to support the Open Texts Collections initiative by accepting collections from OTC contributors. To learn more about archiving with ELAR, please reach out directly via email to: [elar@elararchive.org](mailto:elar@elararchive.org)
-<!-- {% include_relative proposaltemplate_OTC.md %} -->
 
 # Download area
 - [proposaltemplate_OTC.odt](/proposaltemplate.odt)
