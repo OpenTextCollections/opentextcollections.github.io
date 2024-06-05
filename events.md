@@ -4,7 +4,7 @@ layout: default
 
 
 # upcoming
-### Presentation at Vielfaltslinguistik 6, 2024-06-15, Graz.
+### Vielfaltslinguistik 6, 2024-06-15, Graz.
 Vielfaltslinguistik 6 - Sprachbeschreibung und Sprachenvergleich (Diversity Linguistics 6 - conference for language description and comparison): 
 - [website](https://treffpunktsprachen.uni-graz.at/de/unsere-forschung/plurilingualismus/vielfaltslinguistik/) 
 - [program](https://static.uni-graz.at/fileadmin/_files/_administrative_sites/_treffpunktsprachen/PDF/Pluri/uni-graz-treffpunktsprachen-vielfaltslinguistik2024_programm.pdf)
@@ -12,7 +12,7 @@ Vielfaltslinguistik 6 - Sprachbeschreibung und Sprachenvergleich (Diversity Ling
 # past
 ### Training workshop for ELDP, 2024-05-29, BBAW.
 
-### Presentation at LREC workshop, 2024-05-25, Torino.
+### LREC workshop - EURALI, 2024-05-25, Torino.
 - [website](https://sites.google.com/view/eurali/home?authuser=0)
 - [program](https://sites.google.com/view/eurali/program?authuser=0)
 - [proceedings](https://aclanthology.org/volumes/2024.eurali-1/)
