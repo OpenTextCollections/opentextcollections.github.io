@@ -15,7 +15,7 @@ Vielfaltslinguistik 6 - Sprachbeschreibung und Sprachenvergleich (Diversity Ling
 ### Presentation at LREC workshop, 2024-05-25, Torino.
 - [Website](https://sites.google.com/view/eurali/home?authuser=0)
 - [Program](https://sites.google.com/view/eurali/program?authuser=0)
-- [Proceedings](https://aclanthology.org/volumes/2024.eurali-1/) of the workshop.
+- [Proceedings](https://aclanthology.org/volumes/2024.eurali-1/)
 
 ### 2nd board meeting, 2024-04-12, BBAW.
 Participants:
