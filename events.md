@@ -10,7 +10,7 @@ Vielfaltslinguistik 6 - Sprachbeschreibung und Sprachenvergleich (Diversity Ling
 - [program](https://static.uni-graz.at/fileadmin/_files/_administrative_sites/_treffpunktsprachen/PDF/Pluri/uni-graz-treffpunktsprachen-vielfaltslinguistik2024_programm.pdf)
 
 # past
-### Participation in the training workshop for ELDP, 2024-05-29, BBAW.
+### Training workshop for ELDP, 2024-05-29, BBAW.
 
 ### Presentation at LREC workshop, 2024-05-25, Torino.
 - [website](https://sites.google.com/view/eurali/home?authuser=0)
