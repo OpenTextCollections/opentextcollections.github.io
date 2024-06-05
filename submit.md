@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Submitting a proposal to Open Text Collections
+# Submitting a proposal
 
 Text collections submitted to Open Text Collections should be a coherent set of curated and edited texts. While we do not give strict limits, 10 texts would be a good start. We are building conversion pipelines for ELAN and FLEx data.
 
