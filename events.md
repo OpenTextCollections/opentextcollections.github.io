@@ -6,29 +6,28 @@ layout: default
 # upcoming
 
 ### ICL, 2024-09-09, Poznań.
-21st International Congress of Linguists (ICL): 
+21st International Congress of Linguists (ICL), Adam Mickiewicz University, Poznań, Poland: 
 - [website](https://icl2024poznan.pl/)
 
 ### LangDoc, 2024-09-04, BBAW.
-Recent advances in language documentation and archiving: 
+Recent advances in language documentation and archiving, BBAW, Berlin, Germany: 
 - [website](https://langdoc.org/conference/)
 
 # past
 
-### SLE, 2024-08-21, University of Helsinki.
-57th Annual Meeting of the Societas Linguistica Europaea: 
+### SLE, 2024-08-21, Helsinki.
+57th Annual Meeting of the Societas Linguistica Europaea, University of Helsinki, Finland: 
 - [website](https://societaslinguistica.eu/sle2024/)
 
 ### Vielfaltslinguistik 6, 2024-06-15, Graz.
-Vielfaltslinguistik 6 - Sprachbeschreibung und Sprachenvergleich 
-(Diversity Linguistics 6 - language description and comparison): 
+Vielfaltslinguistik 6 - Sprachbeschreibung und Sprachenvergleich, Uni Graz, Österreich:
 - [website](https://treffpunktsprachen.uni-graz.at/de/unsere-forschung/plurilingualismus/vielfaltslinguistik/) 
 - [program](https://static.uni-graz.at/fileadmin/_files/_administrative_sites/_treffpunktsprachen/PDF/Pluri/uni-graz-treffpunktsprachen-vielfaltslinguistik2024_programm.pdf)
 
 ### Training workshop for ELDP, 2024-05-29, BBAW.
 
 ### LREC workshop - EURALI, 2024-05-25, Torino.
-EURALI - 2nd Workshop on Resources and Technologies for Indigenous, Endangered and Lesser-resourced Languages in Eurasia
+EURALI - 2nd Workshop on Resources and Technologies for Indigenous, Endangered and Lesser-resourced Languages in Eurasia, Università degli Studi di Torino, Italy:
 - [website](https://sites.google.com/view/eurali/home?authuser=0)
 - [program](https://sites.google.com/view/eurali/program?authuser=0)
 - [proceedings](https://aclanthology.org/volumes/2024.eurali-1/)
@@ -49,7 +48,7 @@ Participants:
 - Sebastian Nordhoff
 
 ### ComputEL 7 workshop, 2024-03-22, Malta.
-ComputEL - The Use of Computational Methods in the Study of Endangered Languages:
+ComputEL - The Use of Computational Methods in the Study of Endangered Languages, L-Università ta' Malta, Malta:
 - [website](https://computel-workshop.org/)
 - [program](https://computel-workshop.org/computel-7/workshop-program/)
 
