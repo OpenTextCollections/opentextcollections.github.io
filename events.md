@@ -4,13 +4,27 @@ layout: default
 
 
 # upcoming
+
+### ICL, 2024-09-09, Poznań.
+21st International Congress of Linguists (ICL): 
+- [website](https://icl2024poznan.pl/)
+
+### LangDoc, 2024-09-04, BBAW.
+Recent advances in language documentation and archiving: 
+- [website](https://langdoc.org/conference/)
+
+# past
+
+### SLE, 2024-08-21, University of Helsinki.
+57th Annual Meeting of the Societas Linguistica Europaea: 
+- [website](https://societaslinguistica.eu/sle2024/)
+
 ### Vielfaltslinguistik 6, 2024-06-15, Graz.
 Vielfaltslinguistik 6 - Sprachbeschreibung und Sprachenvergleich 
 (Diversity Linguistics 6 - language description and comparison): 
 - [website](https://treffpunktsprachen.uni-graz.at/de/unsere-forschung/plurilingualismus/vielfaltslinguistik/) 
 - [program](https://static.uni-graz.at/fileadmin/_files/_administrative_sites/_treffpunktsprachen/PDF/Pluri/uni-graz-treffpunktsprachen-vielfaltslinguistik2024_programm.pdf)
 
-# past
 ### Training workshop for ELDP, 2024-05-29, BBAW.
 
 ### LREC workshop - EURALI, 2024-05-25, Torino.
