@@ -5,6 +5,9 @@ layout: default
 
 # upcoming
 
+# past
+
+
 ### ICL, 2024-09-09, Poznań.
 21st International Congress of Linguists (ICL), Adam Mickiewicz University, Poznań, Poland: 
 - [website](https://icl2024poznan.pl/)
@@ -12,8 +15,7 @@ layout: default
 ### LangDoc, 2024-09-04, BBAW.
 Recent advances in language documentation and archiving, BBAW, Berlin, Germany: 
 - [website](https://langdoc.org/conference/)
-
-# past
+- [recording of the presentation](https://youtu.be/0rRsD-KoAuM?si=_ci0Pi6fu7jDkr0C)
 
 ### SLE, 2024-08-21, Helsinki.
 57th Annual Meeting of the Societas Linguistica Europaea, University of Helsinki, Finland: 
