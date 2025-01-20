@@ -44,7 +44,7 @@ The following table shows how many collections are found at the various stages i
                     <td>
                         {% for lg in status[1] %}
                             --{{ status[0] }}--
-                            {% if status == "published" %}
+                            {% if status[0] == "published" %}
                                1 {{ lg }}
                             {% else %} 
                                2 ⬤
