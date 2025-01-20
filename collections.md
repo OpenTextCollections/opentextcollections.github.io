@@ -44,7 +44,7 @@ The following table shows how many collections are found at the various stages i
                     <td>
                         {% for lg in status[1] %} 
                             {% if status[0] == "published" %}
-                                {{ lg }}
+                               <a href="https://langsci-press.org/catalog/book/{{ lg[1] }}"> {{ lg[0] }}</a>
                             {% else %} 
                                  ⬤
                             {% endif %}
