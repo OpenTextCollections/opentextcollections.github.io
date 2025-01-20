@@ -40,7 +40,6 @@ Papunesia:
         - da
         - va
         - vu
-        - mu
         - wa
         - te
         - to
@@ -54,6 +53,7 @@ Papunesia:
         - ki
     rejected:
     accepted:
+        - mu
     published:
         - Komnzo
 South America:
