@@ -42,12 +42,11 @@ The following table shows how many collections are found at the various stages i
                 <td>{{ area[0] }}</td>
                     {%for status in area[1] %}
                     <td>
-                        {% for lg in status[1] %}
-                            --{{ status[0] }}--
+                        {% for lg in status[1] %} 
                             {% if status[0] == "published" %}
-                               1 {{ lg }}
+                                {{ lg }}
                             {% else %} 
-                               2 ⬤
+                                 ⬤
                             {% endif %}
                         {% endfor %}
                     </td>
