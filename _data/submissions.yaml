@@ -11,7 +11,7 @@ Africa:
     rejected:
     accepted:
     published:
-Caucasus:
+Eurasia:
     EOI:
         - al
         - ta
@@ -21,12 +21,6 @@ Caucasus:
         - ch
         - ta
         - ka
-    submitted:
-    rejected:
-    accepted:
-    published:
-Eurasia:
-    EOI:
         - ph
         - ga
         - ko 
@@ -48,13 +42,20 @@ Papunesia:
         - vu
         - mu
         - wa
+        - te
+        - to
+        - mo
+        - ka
+        - ah
+        - ur
     submitted:
         - so
-        - wa
         - en
+        - ki
     rejected:
     accepted:
     published:
+        - wa
 South America:
     EOI:
         - wa
@@ -63,10 +64,12 @@ South America:
         - bo
         - ka
         - co
+        - ch
     submitted:
         - iq
         - ce
         - pu
+        - ja
     rejected:
     accepted:
     published:
