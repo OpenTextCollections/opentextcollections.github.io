@@ -55,7 +55,7 @@ Papunesia:
     accepted:
         - mu
     published:
-        - Komnzo
+        - [Komnzo,480]
 South America:
     EOI:
         - wa
