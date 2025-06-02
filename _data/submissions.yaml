@@ -23,10 +23,10 @@ Eurasia:
         - ka
         - ph
         - ga
-        - ko 
+        - ko
         - ga
         - ph
-        - al         
+        - al
     submitted:
         - sa
         - ev
@@ -43,16 +43,15 @@ Papunesia:
         - wa
         - te
         - to
-        - mo
         - ka
         - ah
         - ur
     submitted:
-        - so
         - en
         - ki
     rejected:
     accepted:
+        - mo
         - mu
     published:
         - [Komnzo,480]
@@ -67,17 +66,17 @@ South America:
         - ch
     submitted:
         - iq
-        - ce
+        - ar
         - pu
         - ja
     rejected:
     accepted:
     published:
 North America:
-  EOI:
-    -na
-  submitted:
-  rejected:
-  accepted:
-  published:
+    EOI:
+    submitted:
+        - na
+    rejected:
+    accepted:
+    published:
 
