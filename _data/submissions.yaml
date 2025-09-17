@@ -1,5 +1,6 @@
 Africa:
     EOI:
+        - eb
         - mb
         - ru
         - ta
@@ -25,11 +26,11 @@ Eurasia:
         - ga
         - ko
         - ga
-        - ph
         - al
     submitted:
         - sa
         - ev
+        - ph
     rejected:
     accepted:
         - he
@@ -42,12 +43,13 @@ Papunesia:
         - va
         - vu
         - wa
-        - te
         - to
         - ka
         - ah
         - ur
     submitted:
+        - ab
+        - te
     rejected:
     accepted:
         - mo
