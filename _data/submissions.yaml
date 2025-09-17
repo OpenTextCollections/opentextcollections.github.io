@@ -32,6 +32,7 @@ Eurasia:
         - ev
     rejected:
     accepted:
+        - he
     published:
 Papunesia:
     EOI:
@@ -47,14 +48,14 @@ Papunesia:
         - ah
         - ur
     submitted:
-        - en
-        - ki
     rejected:
     accepted:
         - mo
-        - mu
+        - en
+        - ki
     published:
         - [Komnzo,480]
+        - [Muyu,521]
 South America:
     EOI:
         - wa
@@ -68,9 +69,9 @@ South America:
         - iq
         - ar
         - pu
-        - ja
     rejected:
     accepted:
+        - ja
     published:
 North America:
     EOI:
