@@ -1,6 +1,7 @@
 Africa:
     EOI:
         - eb
+        - at
         - mb
         - ru
         - ta
@@ -40,6 +41,7 @@ Papunesia:
         - bi
         - da
         - da
+        - in
         - va
         - vu
         - wa
@@ -62,7 +64,9 @@ South America:
     EOI:
         - wa
         - no
+        - ki
         - or
+        - pa
         - bo
         - ka
         - co
