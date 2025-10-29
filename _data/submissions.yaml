@@ -30,12 +30,12 @@ Eurasia:
         - al
     submitted:
         - sa
-        - ev
         - ph
     rejected:
     accepted:
-        - he
+        - ev
     published:
+        - [Hewramî,531]
 Papunesia:
     EOI:
         - bi
