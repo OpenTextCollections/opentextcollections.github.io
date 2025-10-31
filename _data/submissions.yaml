@@ -55,9 +55,9 @@ Papunesia:
     rejected:
     accepted:
         - mo
-        - en
         - ki
     published:
+        - [Ende,541]
         - [Komnzo,480]
         - [Muyu,521]
 South America:
@@ -77,8 +77,8 @@ South America:
         - pu
     rejected:
     accepted:
-        - ja
     published:
+        - [Jarawara,537]
 North America:
     EOI:
     submitted:
