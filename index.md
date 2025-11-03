@@ -16,7 +16,7 @@ The following map shows the languages where people are currently preparing text 
 
 
 # Funding and support
-The project is funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) from 2023-2026 and will thereafter be funded by a consortium of research institutions similar to Language Science Press. The project is based at the Berlin-Brandenburgische Akademie der Wissenschaften (BBAW, Berlin-Brandenburg Academy of Sciences and Humanities).
+The project is funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) from 2023-2026 (Projektnummer 517860213) and will thereafter be funded by a consortium of research institutions similar to Language Science Press. The project is based at the Berlin-Brandenburgische Akademie der Wissenschaften (BBAW, Berlin-Brandenburg Academy of Sciences and Humanities).
 
 # Project team
 Sebastian Nordhoff, Christian Döhler, Mandana Seyfeddinipur
