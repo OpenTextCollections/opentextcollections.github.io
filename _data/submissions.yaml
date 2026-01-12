@@ -57,10 +57,14 @@ Papunesia:
     rejected:
     accepted:
     published:
-        - [Ende,541],
-        - [Kilmeri,544],
-        - [Komnzo,480],
-        - [Modole,542],
+        - [Ende,541]
+		
+        - [Kilmeri,544]
+		
+        - [Komnzo,480]
+		
+        - [Modole,542]
+		
         - [Muyu,521]
 South America:
     EOI:
