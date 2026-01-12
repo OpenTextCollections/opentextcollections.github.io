@@ -31,6 +31,9 @@ Eurasia:
     submitted:
         - sa
         - ph
+        - ga
+        - kh
+        - zo
     rejected:
     accepted:
         - ev
@@ -40,7 +43,6 @@ Papunesia:
     EOI:
         - bi
         - da
-        - da
         - in
         - va
         - vu
@@ -48,17 +50,17 @@ Papunesia:
         - to
         - ka
         - ah
-        - ur
     submitted:
         - ab
         - te
+        - ur
     rejected:
     accepted:
-        - mo
-        - ki
     published:
         - [Ende,541]
+        - [Kilmeri,544]
         - [Komnzo,480]
+        - [Modole,542]
         - [Muyu,521]
 South America:
     EOI:
@@ -82,8 +84,8 @@ South America:
 North America:
     EOI:
     submitted:
-        - na
     rejected:
     accepted:
+        - na
     published:
 
