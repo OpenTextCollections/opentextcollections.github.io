@@ -36,9 +36,10 @@ Eurasia:
         - zo
     rejected:
     accepted:
-        - ev
     published:
         - [Hewramî,531]
+		
+		- [Even,562]
 Papunesia:
     EOI:
         - bi
@@ -52,10 +53,10 @@ Papunesia:
         - ah
     submitted:
         - ab
-        - te
-        - ur
     rejected:
     accepted:
+        - te
+        - ur
     published:
         - [Ende,541]
 		
