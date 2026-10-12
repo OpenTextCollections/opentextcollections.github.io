@@ -26,17 +26,18 @@ Eurasia:
         - ph
         - ga
         - ko
-        - ga
         - al
     submitted:
         - sa
         - ph
-        - ga
         - kh
         - zo
-        - he2
+        - so
+        - ta
     rejected:
     accepted:
+        - ga
+        - he2
     published:
         - [Hewramî,531]	
         - [Even,562]
@@ -74,13 +75,13 @@ South America:
         - bo
         - ka
         - co
-        - ch
     submitted:
         - iq
         - ar
-        - pu
     rejected:
     accepted:
+        - ch
+        - pu
     published:
         - [Jarawara,537]
         - [Jarawara (Portuguese),594]
