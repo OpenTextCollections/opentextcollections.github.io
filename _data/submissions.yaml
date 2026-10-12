@@ -34,6 +34,7 @@ Eurasia:
         - ga
         - kh
         - zo
+        - he2
     rejected:
     accepted:
     published:
@@ -55,18 +56,22 @@ Papunesia:
     rejected:
     accepted:
         - ab
-        - te
         - ur
     published:
-        - [Ende,541]
-		
-        - [Kilmeri,544]
-		
         - [Komnzo,480]
-		
-        - [Modole,542]
-		
+
         - [Muyu,521]
+
+        - [Ende,541]
+
+        - [Modole,542]
+
+        - [Kilmeri,544]
+
+        - [Uruangnirin, 586]
+
+        - [Teop,601]
+
 South America:
     EOI:
         - wa
@@ -86,11 +91,12 @@ South America:
     accepted:
     published:
         - [Jarawara,537]
+        - [Jarawara (Portuguese),594]
 North America:
     EOI:
     submitted:
     rejected:
     accepted:
-        - na
     published:
+        - [Navajo,593]
 
